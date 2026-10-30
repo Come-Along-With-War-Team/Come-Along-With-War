@@ -1,0 +1,27 @@
+state = {
+	id = 93
+	name = "STATE_93"
+	manpower = 450751
+
+	state_category = city
+	#impassable = yes
+
+
+	resources = {
+		aluminium = 0
+		chromium = 0
+		oil = 2
+		rubber = 0
+		steel = 1
+		tungsten = 0
+	}
+
+	history = {
+		owner = CND
+		add_core_of = CND
+		victory_points = { 1203 35 }
+	}
+
+	provinces = { 1203 1204 1205 1206 1207 1208 1209 1210 1211 }
+	local_supplies = 0.0
+}

@@ -1,0 +1,12 @@
+#reload countrycolors
+
+
+CND = {
+	color = rgb { 235 130 180 }
+	color_ui = rgb { 245 150 195 }
+}
+
+WLD = {
+	color = rgb { 95 110 95 }
+	color_ui = rgb { 115 130 115 }
+}

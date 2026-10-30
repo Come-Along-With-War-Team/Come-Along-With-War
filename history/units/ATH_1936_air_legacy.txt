@@ -1,0 +1,18 @@
+air_wings = {
+		376 = { 								
+		tac_bomber_equipment_0 = { owner = "ATH" amount = 6 version_name = "Radh Mk 0" }
+
+	}
+	457 = { 								
+		CAS_equipment_0 = { owner = "ATH" amount = 3 version_name = "Faoch Mk 0" }
+tac_bomber_equipment_0 = { owner = "ATH" amount = 3 version_name = "Grimh Mk 1" }
+
+	}
+	283 = { 								
+		fighter_equipment_0 = { owner = "ATH" amount = 4 version_name = "Doras Mk 1" }
+nav_bomber_equipment_0 = { owner = "ATH" amount = 2 version_name = "Banbh Mk 1" }
+
+	}
+
+
+}

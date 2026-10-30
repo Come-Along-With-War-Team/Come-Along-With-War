@@ -1,0 +1,55 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Mozi Fleet"			
+		naval_base = 8881
+		task_force = {
+			name = "Mozi Fleet"
+			location = 8881
+			
+						ship = { name = "Panbu" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = MZZ version_name = "Siraiyalai Class" } }	}
+			ship = { name = "Kutrai" definition = battleship equipment = { battleship_2 = { amount = 1 owner = MZZ version_name = "Merku Class" } }	}
+			ship = { name = "Paadutrai" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = MZZ version_name = "Mooli Class" } }	}
+			ship = { name = "Puyal" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = MZZ version_name = "Siraiyalai Class" } }	}
+			ship = { name = "Manam" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = MZZ version_name = "Sirai Class" } }	}
+			ship = { name = "Isai" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = MZZ version_name = "Pagavai Class" } }	}
+			ship = { name = "Karaiyal" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = MZZ version_name = "Pagavai Class" } }	}
+			ship = { name = "Natrunbu" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = MZZ version_name = "Pagavai Class" } }	}
+			ship = { name = "Sirai" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = MZZ version_name = "Paadhuli Class" } }	}
+			ship = { name = "Sirasu" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = MZZ version_name = "Pagavai Class" } }	}
+			ship = { name = "Mooli" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = MZZ version_name = "Paadhuli Class" } }	}
+			ship = { name = "Kutrai 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = MZZ version_name = "Paadhuli Class" } }	}
+			ship = { name = "Kizhakkirai" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MZZ version_name = "Thozhagizhan Class" } }	}
+			ship = { name = "Merku" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = MZZ version_name = "Pagavai Class" } }	}
+			ship = { name = "Panbu 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = MZZ version_name = "Paadhuli Class" } }	}
+			ship = { name = "Karu" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = MZZ version_name = "Paadhuli Class" } }	}
+			ship = { name = "Sirasu 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = MZZ version_name = "Sirai Class" } }	}
+			ship = { name = "Pagavai" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = MZZ version_name = "Sirai Class" } }	}
+			ship = { name = "Kizhakkirai 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = MZZ version_name = "Sirai Class" } }	}
+			ship = { name = "Sirasu 3" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = MZZ version_name = "Pagavai Class" } }	}
+			ship = { name = "Thagam" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = MZZ version_name = "Pagavai Class" } }	}
+			ship = { name = "Sirai 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = MZZ version_name = "Sirai Class" } }	}
+			ship = { name = "Magizhumaign" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = MZZ version_name = "Paadhuli Class" } }	}
+			ship = { name = "Karu 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MZZ version_name = "Thozhagizhan Class" } }	}
+			ship = { name = "Udal" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = MZZ version_name = "Pagavai Class" } }	}
+			ship = { name = "Nenjilai" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = MZZ version_name = "Pagavai Class" } }	}
+			ship = { name = "Kudhakku" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = MZZ version_name = "Sirai Class" } }	}
+			ship = { name = "Karaiyal 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = MZZ version_name = "Paadhuli Class" } }	}
+			ship = { name = "Arivu" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = MZZ version_name = "Paadhuli Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

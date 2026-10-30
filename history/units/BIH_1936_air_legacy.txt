@@ -1,0 +1,13 @@
+air_wings = {
+		116 = { 								
+		tac_bomber_equipment_0 = { owner = "BIH" amount = 50 version_name = "Aria Mk 2" }
+
+	}
+	1054 = { 								
+		tac_bomber_equipment_0 = { owner = "BIH" amount = 50 version_name = "Aria Mk 2" }
+tac_bomber_equipment_0 = { owner = "BIH" amount = 50 version_name = "Aria Mk 2" }
+
+	}
+
+
+}

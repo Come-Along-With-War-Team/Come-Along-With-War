@@ -1,0 +1,32 @@
+air_wings = {
+		667 = { 								
+		nav_bomber_equipment_0 = { owner = "ELK" amount = 23 version_name = "Poza Mk 1" }
+
+	}
+	202 = { 								
+		tac_bomber_equipment_0 = { owner = "ELK" amount = 22 version_name = "Mugazki Mk 1" }
+tac_bomber_equipment_0 = { owner = "ELK" amount = 16 version_name = "Abesti Mk 2" }
+
+	}
+	419 = { 								
+		fighter_equipment_0 = { owner = "ELK" amount = 20 version_name = "Lurre Mk 1" }
+
+	}
+	476 = { 								
+		CAS_equipment_0 = { owner = "ELK" amount = 13 version_name = "Asmen Mk 1" }
+strat_bomber_equipment_0 = { owner = "ELK" amount = 16 version_name = "Hizaguntzaka Mk 0" }
+strat_bomber_equipment_0 = { owner = "ELK" amount = 19 version_name = "Oihotza Mk 2" }
+
+	}
+	335 = { 								
+		nav_bomber_equipment_0 = { owner = "ELK" amount = 21 version_name = "Erra Mk 1" }
+fighter_equipment_0 = { owner = "ELK" amount = 18 version_name = "Indarrantzak Mk 1" }
+
+	}
+	95 = { 								
+		CAS_equipment_0 = { owner = "ELK" amount = 24 version_name = "Baketsai Mk 0" }
+
+	}
+
+
+}

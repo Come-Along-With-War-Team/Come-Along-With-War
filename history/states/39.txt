@@ -1,0 +1,30 @@
+state = {
+	id = 39
+	name = "STATE_39"
+	manpower = 718048
+
+	state_category = large_town
+	#impassable = yes
+
+
+	resources = {
+		aluminium = 0
+		chromium = 0
+		oil = 0
+		rubber = 0
+		steel = 9
+		tungsten = 0
+		
+	}
+
+	history = {
+		owner = WLD
+		add_core_of = WLD
+	}
+
+	provinces = {
+		491 492 493 494 495 496 497 498 499 500 501 502 503 504 505 506 507 508 509 510 511 512 513 514 515 516 517 518
+		519 520 521 522 523 524 525 526 527 528 529 530 531 532 533 534 535 536 537 538
+	}
+	local_supplies = 0.0
+}

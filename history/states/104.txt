@@ -1,0 +1,25 @@
+state = {
+	id = 104
+	name = "STATE_104"
+	manpower = 72294
+
+	state_category = pastoral
+	#impassable = yes
+
+	resources = {
+		aluminium = 0
+		chromium = 0
+		oil = 0
+		rubber = 0
+		steel = 0
+		tungsten = 0
+	}
+
+	history = {
+		owner = WLD
+		add_core_of = WLD
+	}
+
+	provinces = { 1316 1317 1318 }
+	local_supplies = 0.0
+}

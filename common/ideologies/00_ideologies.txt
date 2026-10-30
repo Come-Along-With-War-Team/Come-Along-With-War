@@ -1,0 +1,214 @@
+ideologies = {
+    # ==========================================
+
+
+    # 1. RATIONALISM
+
+
+    # ==========================================
+
+
+    rationalism = {
+        types = {
+            bonnibelianism = { }
+            calculated_technocracy = { }
+            light_cloud_preservationism = { }
+            hearth_fire_constitutionalism = { }
+            petrikovian_reconstructionism = { }
+            enchiridion_scholasticism = { }
+            positronic_materialism = { }
+            mellowed_governance = { }
+        }
+
+        dynamic_faction_names = { "FACTION_NAME_RATIONALISM_1" "FACTION_NAME_RATIONALISM_2" }
+
+        color = { 70 160 220 }
+
+        rules = {
+            can_force_government = yes
+            can_puppet = yes
+            can_send_volunteers = yes
+        }
+
+        war_impact_on_world_tension = 0.5
+        faction_impact_on_world_tension = 0.2
+
+        modifiers = {
+            stability_factor = 0.15
+            research_speed_factor = 0.15
+            war_support_factor = -0.20
+            conscription_factor = -0.15
+            drift_defence_factor = 0.25
+        }
+    }
+
+    # ==========================================
+
+
+    # 2. Supremacist
+
+
+    # ==========================================
+
+
+    supremacist = {
+        types = {
+            corporate_revanchism = { }
+            counterfeit_heroism = { }
+            combustion_imperialism = { }
+            sour_citadellism = { }
+            pure_blood_sanguinism = { }
+            transhuman_biopower = { }
+            gelatinous_hegemony = { }
+            plunder_baron_despotism = { }
+            wiz_biz_elitism = { }
+        }
+
+        dynamic_faction_names = { "FACTION_NAME_SUPREMACIST_1" "FACTION_NAME_SUPREMACIST_2" }
+
+        color = { 190 35 35 }
+
+        rules = {
+            can_force_government = yes
+            can_puppet = yes
+            can_send_volunteers = yes
+        }
+
+        war_impact_on_world_tension = 1.0
+        faction_impact_on_world_tension = 1.0
+
+        modifiers = {
+            war_support_factor = 0.20
+            breakthrough_factor = 0.15
+            justify_war_goal_time = -0.30
+            generate_wargoal_tension = -0.20
+            tension_decay_factor = -0.10
+        }
+    }
+
+    # ==========================================
+
+
+    # 3. COLLECTIVISM
+
+
+    # ==========================================
+
+
+    collectivism = {
+        types = {
+            veritas_vanguardism = { }
+            orchard_peasant_communalism = { }
+            grassroots_confectionery_rebelism = { }
+            flotilla_councilism = { }
+            smelter_syndicalism = { }
+            subterranean_ooze_sovietism = { }
+            sub_stack_unionism = { }
+            all_mo_cyber_syndicalism = { }
+        }
+
+        dynamic_faction_names = { "FACTION_NAME_COLLECTIVISM_1" "FACTION_NAME_COLLECTIVISM_2" }
+
+        color = { 215 70 30 }
+
+        rules = {
+            can_force_government = yes
+            can_puppet = yes
+            can_send_volunteers = yes
+        }
+
+        war_impact_on_world_tension = 0.75
+        faction_impact_on_world_tension = 0.5
+
+        modifiers = {
+            army_org_regain = 0.20
+            conscription = 0.02
+            reinforce_rate = 0.15
+            stability_factor = -0.10
+            subversive_activites_upkeep = -0.25
+        }
+    }
+
+    # ==========================================
+
+
+    # 4. TRADITIONALISM
+
+
+    # ==========================================
+
+
+    traditionalism = {
+        types = {
+            senile_cryocracy = { }
+            bro_code_adventurism = { }
+            nuttian_feudal_inertia = { }
+            groovy_pacifism = { }
+            chelonian_isolationism = { }
+            corrugated_cardboard_autonomy = { }
+            bramble_berry_neutrality = { }
+        }
+
+        dynamic_faction_names = { "FACTION_NAME_TRADITIONALISM_1" "FACTION_NAME_TRADITIONALISM_2" }
+
+        color = { 150 90 190 }
+
+        rules = {
+            can_force_government = no
+            can_puppet = yes
+            can_send_volunteers = no
+        }
+
+        war_impact_on_world_tension = 0.2
+        faction_impact_on_world_tension = 0.2
+
+        modifiers = {
+            army_core_defence_factor = 0.25
+            max_entrenchment = 10
+            mobilization_speed = -0.25
+            generate_wargoal_tension = 0.40
+            stability_weekly = 0.0002
+        }
+    }
+
+    # ==========================================
+
+
+    # 5. ANNIHILATION
+
+
+    # ==========================================
+
+
+    annihilation = {
+        types = {
+            last_scholar_extinction = { }
+            golbian_accelerationism = { }
+            emissarys_curse = { }
+            primordial_celestial_gluttony = { }
+            terminal_acoustic_entropism = { }
+            nightosphere_soul_predation = { }
+        }
+
+        dynamic_faction_names = { "FACTION_NAME_ANNIHILATION_1" "FACTION_NAME_ANNIHILATION_2" }
+
+        color = { 45 165 75 }
+
+        rules = {
+            can_force_government = no
+            can_puppet = no
+            can_send_volunteers = no
+        }
+
+        war_impact_on_world_tension = 1.5
+        faction_impact_on_world_tension = 2.0
+
+        modifiers = {
+            war_support_factor = 0.30
+            justify_war_goal_time = -0.50
+            trade_laws_cost_factor = 1.00
+            attrition_for_controller = 0.20
+            consumer_goods_factor = -1.0
+        }
+    }
+}

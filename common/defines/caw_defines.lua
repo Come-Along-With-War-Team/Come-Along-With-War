@@ -1,0 +1,4 @@
+NDefines.NGame.START_DATE = "1004.1.1.12"
+NDefines.NGame.END_DATE = "1025.1.1.1"
+
+NDefines.NTechnology.BASE_YEAR_AHEAD_PENALTY_FACTOR = 2.0

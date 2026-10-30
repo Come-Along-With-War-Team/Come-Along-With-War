@@ -1,0 +1,36 @@
+﻿l_english:
+ # =========================
+ # MASTER GROUPS
+ # =========================
+ rationalism:0 "Rationalist"
+ rationalism_noun:0 "Rationalism"
+ rationalism_desc:0 "Rationalist Regime"
+ supremacist:0 "Supremacist"
+ supremacist_noun:0 "Supremacy"
+ supremacist_desc:0 "Supremacist Regime"
+ collectivism:0 "Collectivist"
+ collectivism_noun:0 "Collectivism"
+ collectivism_desc:0 "Collectivist Regime"
+ traditionalism:0 "Traditionalist"
+ traditionalism_noun:0 "Traditionalism"
+ traditionalism_desc:0 "Traditionalist Order"
+ annihilation:0 "Annihilation"
+ annihilation_noun:0 "Annihilationism"
+ annihilation_desc:0 "Annihilation"
+
+ MODIFIER_RATIONALISM_DRIFT:0 "Daily Rationalism Support"
+ MODIFIER_SUPREMACIST_DRIFT:0 "Daily Supremacy Support"
+ MODIFIER_COLLECTIVISM_DRIFT:0 "Daily Collectivism Support"
+ MODIFIER_TRADITIONALISM_DRIFT:0 "Daily Traditionalism Support"
+ MODIFIER_ANNIHILATION_DRIFT:0 "Daily Annihilationism Support"
+ rationalism_drift:0 "Daily Rationalism Support"
+ supremacist_drift:0 "Daily Supremacy Support"
+ collectivism_drift:0 "Daily Collectivism Support"
+ traditionalism_drift:0 "Daily Traditionalism Support"
+ annihilation_drift:0 "Daily Annihilationism Support"
+
+ # =========================
+ # RATIONALISM SUB-IDEOLOGIES
+ # =========================
+ bonnibelianism:0 "Bonnibelianism"
+ bonnibelianism_desc:0 "Bonnibelianism is a system of benevolent scientific absolutism built around Princess Bubblegum. Because the Candy People were engineered to be gentle and easily frightened, the state acts as an overprotective parent providing constant festivals and public care while quietly neutralizing threats from the shadows."

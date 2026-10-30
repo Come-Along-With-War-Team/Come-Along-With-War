@@ -1,0 +1,50 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Athe Fleet"			
+		naval_base = 8919
+		task_force = {
+			name = "Athe Fleet"
+			location = 8919
+			
+						ship = { name = "Crianas" definition = heavy_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ATH version_name = "Dort Class" } }	}
+			ship = { name = "Bearradailt" definition = heavy_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ATH version_name = "Dort Class" } }	}
+			ship = { name = "Athe" definition = heavy_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ATH version_name = "Slas Class" } }	}
+			ship = { name = "Geach" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = ATH version_name = "Radheart Class" } }	}
+			ship = { name = "Radheart" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ATH version_name = "Crianas Class" } }	}
+			ship = { name = "Geach 2" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ATH version_name = "Grimh Class" } }	}
+			ship = { name = "Caili" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = ATH version_name = "Radheart Class" } }	}
+			ship = { name = "Cuas" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = ATH version_name = "Radheart Class" } }	}
+			ship = { name = "Banbh" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = ATH version_name = "Radheart Class" } }	}
+			ship = { name = "Slam" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ATH version_name = "Crianas Class" } }	}
+			ship = { name = "Fais" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ATH version_name = "Crianas Class" } }	}
+			ship = { name = "Cuas 2" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = ATH version_name = "Radheart Class" } }	}
+			ship = { name = "Gleannta" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ATH version_name = "Crianas Class" } }	}
+			ship = { name = "Bann" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = ATH version_name = "Radheart Class" } }	}
+			ship = { name = "Cuas 3" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ATH version_name = "Grimh Class" } }	}
+			ship = { name = "Tailt" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ATH version_name = "Crianas Class" } }	}
+			ship = { name = "Troch" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = ATH version_name = "Doras Class" } }	}
+			ship = { name = "Radheart 2" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ATH version_name = "Crianas Class" } }	}
+			ship = { name = "Balamh" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = ATH version_name = "Doras Class" } }	}
+			ship = { name = "Luch" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ATH version_name = "Crianas Class" } }	}
+			ship = { name = "Aith" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = ATH version_name = "Doras Class" } }	}
+			ship = { name = "Doras" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = ATH version_name = "Radheart Class" } }	}
+			ship = { name = "Slam 2" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = ATH version_name = "Doras Class" } }	}
+			ship = { name = "Geach 3" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = ATH version_name = "Radheart Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

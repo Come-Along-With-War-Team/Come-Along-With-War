@@ -1,0 +1,16 @@
+characters = {
+    CND_bonnibel_bubblegum = {
+        name = "Princess Bubblegum"
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/CND/Princess_Bubblegum.dds"
+            }
+        }
+        country_leader = {
+            ideology = bonnibelianism
+            traits = { dictator }
+            expire = "1965.1.1"
+            id = -1
+        }
+    }
+}

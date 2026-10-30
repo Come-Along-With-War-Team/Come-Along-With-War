@@ -1,0 +1,22 @@
+air_wings = {
+		592 = { 								
+		strat_bomber_equipment_0 = { owner = "ORD" amount = 19 version_name = "Sapientus Mk 1" }
+nav_bomber_equipment_0 = { owner = "ORD" amount = 16 version_name = "Seminatus Mk 2" }
+
+	}
+	741 = { 								
+		fighter_equipment_0 = { owner = "ORD" amount = 17 version_name = "Patus Mk 1" }
+tac_bomber_equipment_0 = { owner = "ORD" amount = 13 version_name = "Celebraes Mk 1" }
+
+	}
+	405 = { 								
+		CAS_equipment_0 = { owner = "ORD" amount = 14 version_name = "Plum Mk 2" }
+
+	}
+	138 = { 								
+		strat_bomber_equipment_0 = { owner = "ORD" amount = 18 version_name = "Mentus Mk 1" }
+
+	}
+
+
+}

@@ -1,0 +1,33 @@
+air_wings = {
+		321 = { 								
+		nav_bomber_equipment_0 = { owner = "LEA" amount = 50 version_name = "Deann Mk 0" }
+
+	}
+	174 = { 								
+		fighter_equipment_0 = { owner = "LEA" amount = 50 version_name = "Boithanch Mk 2" }
+
+	}
+	212 = { 								
+		fighter_equipment_0 = { owner = "LEA" amount = 50 version_name = "Boithanch Mk 2" }
+
+	}
+	295 = { 								
+		CAS_equipment_0 = { owner = "LEA" amount = 50 version_name = "Cine Mk 2" }
+
+	}
+	220 = { 								
+		CAS_equipment_0 = { owner = "LEA" amount = 50 version_name = "Cine Mk 2" }
+
+	}
+	363 = { 								
+		tac_bomber_equipment_0 = { owner = "LEA" amount = 50 version_name = "Muidh Mk 0" }
+
+	}
+	79 = { 								
+		nav_bomber_equipment_0 = { owner = "LEA" amount = 50 version_name = "Deann Mk 0" }
+tac_bomber_equipment_0 = { owner = "LEA" amount = 50 version_name = "Muidh Mk 0" }
+
+	}
+
+
+}

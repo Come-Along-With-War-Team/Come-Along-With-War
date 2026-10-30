@@ -1,0 +1,12 @@
+air_wings = {
+		526 = { 								
+		small_plane_airframe_0 = { owner = "KUD" amount = 29 version_name = "Nilai Mk 1" }
+
+	}
+	565 = { 								
+		small_plane_cas_airframe_0 = { owner = "KUD" amount = 32 version_name = "Vadu Mk 0" }
+
+	}
+
+
+}

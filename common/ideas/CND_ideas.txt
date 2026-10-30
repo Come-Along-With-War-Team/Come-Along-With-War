@@ -1,0 +1,66 @@
+ideas = {
+    country = {
+        CND_the_monitor_room = {
+            picture = CND_the_monitor_room
+            allowed = {
+                always = no
+            }
+            removal_cost = -1
+            modifier = {
+                stability_factor = 0.10
+                drift_defence_factor = 0.30
+                foreign_subversive_activites = -0.30
+                political_power_gain = -0.15
+                trade_opinion_factor = -0.20
+            }
+        }
+
+        CND_a_house_divided = {
+            picture = CND_a_house_divided
+            allowed = {
+                always = no
+            }
+            removal_cost = -1
+            modifier = {
+                political_power_gain = -0.35
+                stability_factor = -0.15
+                political_advisor_cost_factor = 0.25
+                supremacist_drift = 0.01
+                collectivism_drift = 0.01
+                traditionalism_drift = 0.01
+            }
+        }
+
+        CND_sugar_and_circuses = {
+            picture = CND_sugar_and_circuses
+            allowed = {
+                always = no
+            }
+            removal_cost = -1
+            modifier = {
+                stability_factor = 0.10
+                war_support_factor = -0.25
+                consumer_goods_factor = 0.30
+                production_speed_arms_factory_factor = -0.35
+                industrial_capacity_factory = -0.15
+                production_factory_efficiency_gain_factor = -0.20
+            }
+        }
+
+        CND_thin_yellow_line = {
+            picture = CND_thin_yellow_line
+            allowed = {
+                always = no
+            }
+            removal_cost = -1
+            modifier = {
+                mobilization_speed = -0.40
+                conscription_factor = -0.35
+                training_time_factor = 0.25
+                army_org_factor = -0.20
+                experience_gain_army_factor = -0.30
+                mobilization_laws_cost_factor = 0.50
+            }
+        }
+    }
+}

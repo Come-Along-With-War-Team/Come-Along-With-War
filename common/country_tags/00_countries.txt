@@ -1,0 +1,2 @@
+CND = "countries/Candy Kingdom.txt"
+WLD = "countries/Wilderness.txt"

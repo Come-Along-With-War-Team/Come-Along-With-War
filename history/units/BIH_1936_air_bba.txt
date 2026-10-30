@@ -1,0 +1,13 @@
+air_wings = {
+		116 = { 								
+		medium_plane_airframe_0 = { owner = "BIH" amount = 50 version_name = "Aria Mk 2" }
+
+	}
+	1054 = { 								
+		medium_plane_airframe_0 = { owner = "BIH" amount = 50 version_name = "Aria Mk 2" }
+medium_plane_airframe_0 = { owner = "BIH" amount = 50 version_name = "Aria Mk 2" }
+
+	}
+
+
+}

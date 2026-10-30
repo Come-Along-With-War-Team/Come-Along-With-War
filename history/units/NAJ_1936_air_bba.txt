@@ -1,0 +1,14 @@
+air_wings = {
+		88 = { 								
+		small_plane_cas_airframe_0 = { owner = "NAJ" amount = 6 version_name = "Gentus Mk 0" }
+small_plane_airframe_0 = { owner = "NAJ" amount = 2 version_name = "Vitus Mk 1" }
+
+	}
+	562 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "NAJ" amount = 6 version_name = "Mare Mk 1" }
+medium_plane_airframe_0 = { owner = "NAJ" amount = 9 version_name = "Versum Mk 2" }
+
+	}
+
+
+}

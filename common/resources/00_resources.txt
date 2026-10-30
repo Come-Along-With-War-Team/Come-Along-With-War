@@ -1,0 +1,49 @@
+resources = {
+    # Frame 1: Biodiesel (Vanilla: oil)
+
+    oil = {
+        icon_frame = 1
+        cic = 1
+        convoys = 0.1
+    }
+
+    # Frame 2: MO Alloys (Vanilla: aluminium)
+
+    aluminium = {
+        icon_frame = 2
+        cic = 1
+        convoys = 0.1
+    }
+
+    # Frame 3: Candy (Vanilla: rubber)
+
+    rubber = {
+        icon_frame = 3
+        cic = 1
+        convoys = 0.1
+    }
+
+    # Frame 4: Crystals (Vanilla: tungsten)
+
+    tungsten = {
+        icon_frame = 4
+        cic = 1
+        convoys = 0.1
+    }
+
+    # Frame 5: Steel (Standard: steel)
+
+    steel = {
+        icon_frame = 5
+        cic = 1
+        convoys = 0.1
+    }
+
+    # Frame 6: Pre-War Tech (Vanilla: chromium)
+
+    chromium = {
+        icon_frame = 6
+        cic = 1
+        convoys = 0.1
+    }
+}

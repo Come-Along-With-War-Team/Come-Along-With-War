@@ -1,0 +1,40 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Jian Fleet"			
+		naval_base = 8734
+		task_force = {
+			name = "Jian Fleet"
+			location = 8734
+			
+						ship = { name = "Amdayt" definition = heavy_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = JIA version_name = "Tamsiri Class" } }	}
+			ship = { name = "Amezi" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = JIA version_name = "Takwint Class" } }	}
+			ship = { name = "Amezi 2" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = JIA version_name = "Takwint Class" } }	}
+			ship = { name = "Agour" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JIA version_name = "Azrar Class" } }	}
+			ship = { name = "Tagmmi" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JIA version_name = "Azrar Class" } }	}
+			ship = { name = "Tamur" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = JIA version_name = "Takwint Class" } }	}
+			ship = { name = "Taghrem" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JIA version_name = "Azrar Class" } }	}
+			ship = { name = "Tighart" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = JIA version_name = "Takwint Class" } }	}
+			ship = { name = "Afrarem" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = JIA version_name = "Takwint Class" } }	}
+			ship = { name = "Azem" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = JIA version_name = "Takwint Class" } }	}
+			ship = { name = "Taghrem 2" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = JIA version_name = "Tatri Class" } }	}
+			ship = { name = "Azegza" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = JIA version_name = "Takwint Class" } }	}
+			ship = { name = "Tamur 2" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = JIA version_name = "Tagmmi Class" } }	}
+			ship = { name = "Tigherwin" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = JIA version_name = "Tagmmi Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

@@ -1,0 +1,29 @@
+air_wings = {
+		205 = { 								
+		CAS_equipment_0 = { owner = "NYA" amount = 50 version_name = "Ramhala Mk 0" }
+
+	}
+	699 = { 								
+		tac_bomber_equipment_0 = { owner = "NYA" amount = 50 version_name = "Toko Mk 0" }
+
+	}
+	374 = { 								
+		fighter_equipment_0 = { owner = "NYA" amount = 45 version_name = "Rajagu Mk 0" }
+
+	}
+	710 = { 								
+		CAS_equipment_0 = { owner = "NYA" amount = 50 version_name = "Ramhala Mk 0" }
+tac_bomber_equipment_0 = { owner = "NYA" amount = 50 version_name = "Toko Mk 0" }
+
+	}
+	725 = { 								
+		nav_bomber_equipment_0 = { owner = "NYA" amount = 50 version_name = "Ping Mk 1" }
+
+	}
+	233 = { 								
+		nav_bomber_equipment_0 = { owner = "NYA" amount = 50 version_name = "Ping Mk 1" }
+
+	}
+
+
+}

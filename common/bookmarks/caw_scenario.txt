@@ -1,0 +1,39 @@
+bookmarks = {
+	bookmark = {
+		name = "COME_ALONG_WITH_WAR_NAME"
+		desc = "COME_ALONG_WITH_WAR_DESC"
+		date = 1004.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "CND"
+		default = yes
+
+		effect = {
+			randomize_weather = 22345
+		}
+
+		"CND" = {
+			history = "CND_COME_ALONG_WITH_WAR_DESC"
+			ideology = rationalism
+			ideas = { CND_the_monitor_room CND_a_house_divided CND_sugar_and_circuses CND_thin_yellow_line }
+			focuses = { }
+		}
+	}
+	bookmark = {
+		name = "WAR_FOR_OOO_NAME"
+		desc = "WAR_FOR_OOO_DESC"
+		date = 1011.1.1.12
+		picture = "GFX_select_date_1939"
+		default_country = "CND"
+
+		effect = {
+			randomize_weather = 22345
+		}
+
+		"CND" = {
+			history = "CND_COME_ALONG_WITH_WAR_DESC"
+			ideology = rationalism
+			ideas = { CND_the_monitor_room CND_a_house_divided CND_sugar_and_circuses CND_thin_yellow_line }
+			focuses = { }
+		}
+	}
+}

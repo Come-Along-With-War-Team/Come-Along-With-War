@@ -1,0 +1,14 @@
+air_wings = {
+		88 = { 								
+		CAS_equipment_0 = { owner = "NAJ" amount = 6 version_name = "Gentus Mk 0" }
+fighter_equipment_0 = { owner = "NAJ" amount = 2 version_name = "Vitus Mk 1" }
+
+	}
+	562 = { 								
+		nav_bomber_equipment_0 = { owner = "NAJ" amount = 6 version_name = "Mare Mk 1" }
+tac_bomber_equipment_0 = { owner = "NAJ" amount = 9 version_name = "Versum Mk 2" }
+
+	}
+
+
+}

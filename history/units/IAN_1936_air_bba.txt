@@ -1,0 +1,29 @@
+air_wings = {
+		161 = { 								
+		small_plane_airframe_0 = { owner = "IAN" amount = 24 version_name = "Ituliya Mk 1" }
+
+	}
+	113 = { 								
+		small_plane_cas_airframe_0 = { owner = "IAN" amount = 28 version_name = "Nakuimaq Mk 2" }
+
+	}
+	632 = { 								
+		cv_small_plane_naval_bomber_airframe_0 = { owner = "IAN" amount = 33 version_name = "Tunanaanuvan Mk 2" }
+
+	}
+	566 = { 								
+		cv_small_plane_airframe_0 = { owner = "IAN" amount = 23 version_name = "Tineq Mk 0" }
+
+	}
+	420 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "IAN" amount = 25 version_name = "Tulok Mk 1" }
+medium_plane_airframe_0 = { owner = "IAN" amount = 24 version_name = "Tattak Mk 0" }
+
+	}
+	166 = { 								
+		cv_small_plane_cas_airframe_0 = { owner = "IAN" amount = 33 version_name = "Kugaannu Mk 2" }
+
+	}
+
+
+}

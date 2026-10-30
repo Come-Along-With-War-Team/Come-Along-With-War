@@ -1,0 +1,33 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Cita Fleet"			
+		naval_base = 8920
+		task_force = {
+			name = "Cita Fleet"
+			location = 8920
+			
+						ship = { name = "Obaharim" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CIT version_name = "Ormaniderek Class" } }	}
+			ship = { name = "Koplulu" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = CIT version_name = "Ordu Class" } }	}
+			ship = { name = "Tari" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = CIT version_name = "Gele Class" } }	}
+			ship = { name = "Obaharim 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CIT version_name = "Ormaniderek Class" } }	}
+			ship = { name = "Yolda" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = CIT version_name = "Bahtar Class" } }	}
+			ship = { name = "Basket" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CIT version_name = "Ormaniderek Class" } }	}
+			ship = { name = "Koplulu 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CIT version_name = "Ormaniderek Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

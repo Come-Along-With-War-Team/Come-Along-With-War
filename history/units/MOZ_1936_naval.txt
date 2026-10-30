@@ -1,0 +1,37 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Mozhinal Fleet"			
+		naval_base = 8923
+		task_force = {
+			name = "Mozhinal Fleet"
+			location = 8923
+			
+						ship = { name = "Aranneer" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = MOZ version_name = "Thumayanippu Class" } }	}
+			ship = { name = "Vizhchi" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = MOZ version_name = "Vadilam Class" } }	}
+			ship = { name = "Kanam" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = MOZ version_name = "Thumayanippu Class" } }	}
+			ship = { name = "Vizhchi 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MOZ version_name = "Kadan Class" } }	}
+			ship = { name = "Noolaiyal" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = MOZ version_name = "Vadilam Class" } }	}
+			ship = { name = "Kudhai" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = MOZ version_name = "Thumayanippu Class" } }	}
+			ship = { name = "Isai" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = MOZ version_name = "Thumayanippu Class" } }	}
+			ship = { name = "Mool" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = MOZ version_name = "Thumayanippu Class" } }	}
+			ship = { name = "Thunam" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MOZ version_name = "Kadan Class" } }	}
+			ship = { name = "Thoppu" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = MOZ version_name = "Thumayanippu Class" } }	}
+			ship = { name = "Magam" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = MOZ version_name = "Vadilam Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

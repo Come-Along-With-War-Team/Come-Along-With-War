@@ -1,0 +1,33 @@
+﻿l_english:
+
+ CND:0 "Candy Kingdom"
+ CND_DEF:0 "the Candy Kingdom"
+ CND_ADJ:0 "Candy"
+
+ CND_rationalism:0 "Candy Kingdom"
+ CND_rationalism_DEF:0 "the Candy Kingdom"
+ CND_rationalism_ADJ:0 "Candy"
+
+ CND_supremacist:0 "Greater Confectionery Dominion"
+ CND_supremacist_DEF:0 "the Greater Confectionery Dominion"
+ CND_supremacist_ADJ:0 "Confectionery"
+
+ CND_collectivism:0 "People's Sugar Commune"
+ CND_collectivism_DEF:0 "the People's Sugar Commune"
+ CND_collectivism_ADJ:0 "Confectionery"
+
+ CND_traditionalism:0 "Sovereign Kingdom of Ooo"
+ CND_traditionalism_DEF:0 "the Sovereign Kingdom of Ooo"
+ CND_traditionalism_ADJ:0 "Royal Ooo"
+
+ CND_annihilation:0 "Order-State of Candy"
+ CND_annihilation_DEF:0 "The Order-State of Candy"
+ CND_annihilation_ADJ:0 "Peppermint"
+
+ WLD:0 "Wilderness"
+ WLD_DEF:0 "the Wilderness of Ooo"
+ WLD_ADJ:0 "Wild"
+
+ WLD_traditionalism:0 "Unclaimed Ooo"
+ WLD_traditionalism_DEF:0 "the Unclaimed Lands of Ooo"
+ WLD_traditionalism_ADJ:0 "Wild"

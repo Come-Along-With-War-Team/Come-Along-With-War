@@ -1,0 +1,27 @@
+state = {
+	id = 346
+	name = "STATE_346"
+	manpower = 176294
+
+	state_category = rural
+	#impassable = yes
+
+
+	resources = {
+		aluminium = 0
+		chromium = 0
+		oil = 0
+		rubber = 4
+		steel = 4
+		tungsten = 0
+		
+	}
+
+	history = {
+		owner = WLD
+		add_core_of = WLD
+	}
+
+	provinces = { 3644 3645 3646 }
+	local_supplies = 0.0
+}

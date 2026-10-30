@@ -1,0 +1,25 @@
+state = {
+	id = 119
+	name = "STATE_119"
+	manpower = 605979
+
+	state_category = metropolis
+	#impassable = yes
+
+	resources = {
+		aluminium = 0
+		chromium = 0
+		oil = 0
+		rubber = 0
+		steel = 2
+		tungsten = 0
+	}
+
+	history = {
+		owner = WLD
+		add_core_of = WLD
+	}
+
+	provinces = { 1457 1458 1459 1460 1461 1462 1463 1464 1465 1466 1467 1468 }
+	local_supplies = 0.0
+}

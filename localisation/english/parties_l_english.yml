@@ -1,0 +1,15 @@
+﻿l_english:
+
+ # Candy Kingdom
+ CND_rationalism_party:0 "RBC"
+ CND_rationalism_party_long:0 "Royal Bonnibelian Council"
+ CND_rationalism_party_gcrp:0 "GCRP"
+ CND_rationalism_party_gcrp_long:0 "Grasslands Candy Royalist Party"
+ CND_traditionalism_party:0 "OTRP"
+ CND_traditionalism_party_long:0 "One True Royalist Party"
+ CND_collectivism_party:0 "CWU"
+ CND_collectivism_party_long:0 "Candy Workers' Union"
+ CND_supremacist_party:0 "PGNP"
+ CND_supremacist_party_long:0 "Pan-Gum Nationalists"
+ CND_annihilation_party:0 "TPO"
+ CND_annihilation_party_long:0 "The Peppermint Order"

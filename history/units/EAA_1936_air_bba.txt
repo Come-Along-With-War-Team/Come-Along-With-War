@@ -1,0 +1,13 @@
+air_wings = {
+		481 = { 								
+		small_plane_cas_airframe_0 = { owner = "EAA" amount = 15 version_name = "Udakkam Mk 1" }
+small_plane_airframe_0 = { owner = "EAA" amount = 18 version_name = "Vanbam Mk 1" }
+
+	}
+	67 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "EAA" amount = 11 version_name = "Vadilam Mk 0" }
+
+	}
+
+
+}

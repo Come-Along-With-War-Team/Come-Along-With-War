@@ -1,0 +1,29 @@
+state = {
+	id = 72
+	name = "STATE_72"
+	manpower = 357610
+
+	state_category = large_town
+	#impassable = yes
+
+
+	resources = {
+		aluminium = 0
+		chromium = 0
+		oil = 4
+		rubber = 0
+		steel = 0
+		tungsten = 0
+	}
+
+	history = {
+		owner = CND
+		add_core_of = CND
+		victory_points = { 875 35 }
+	}
+
+	provinces = {
+		872 873 874 875 876 877 878 879 880 881 882 883 884 885 886 887 888 889 890 891 892 893 894 895 896 897 898
+	}
+	local_supplies = 0.0
+}

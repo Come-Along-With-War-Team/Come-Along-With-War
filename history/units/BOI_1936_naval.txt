@@ -1,0 +1,38 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Boite Fleet"			
+		naval_base = 8928
+		task_force = {
+			name = "Boite Fleet"
+			location = 8928
+			
+						ship = { name = "Tazrarem" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = BOI version_name = "Afrarem Class" } }	}
+			ship = { name = "Tamsa" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = BOI version_name = "Tatri Class" } }	}
+			ship = { name = "Tatri" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = BOI version_name = "Tatri Class" } }	}
+			ship = { name = "Afrarem" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BOI version_name = "Agour Class" } }	}
+			ship = { name = "Tazi" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BOI version_name = "Agour Class" } }	}
+			ship = { name = "Agour" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BOI version_name = "Agour Class" } }	}
+			ship = { name = "Adraru" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = BOI version_name = "Tatri Class" } }	}
+			ship = { name = "Taziremzoult" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BOI version_name = "Agour Class" } }	}
+			ship = { name = "Izerwint" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = BOI version_name = "Tatri Class" } }	}
+			ship = { name = "Tagmazmeqra" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BOI version_name = "Agour Class" } }	}
+			ship = { name = "Azour" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BOI version_name = "Agour Class" } }	}
+			ship = { name = "Taza" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BOI version_name = "Agour Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

@@ -1,0 +1,20 @@
+air_wings = {
+		190 = { 								
+		CAS_equipment_0 = { owner = "VUL" amount = 50 version_name = "Gecek Mk 1" }
+
+	}
+	255 = { 								
+		fighter_equipment_0 = { owner = "VUL" amount = 50 version_name = "Aksaman Mk 2" }
+
+	}
+	358 = { 								
+		fighter_equipment_0 = { owner = "VUL" amount = 50 version_name = "Aksaman Mk 2" }
+
+	}
+	318 = { 								
+		CAS_equipment_0 = { owner = "VUL" amount = 50 version_name = "Gecek Mk 1" }
+
+	}
+
+
+}

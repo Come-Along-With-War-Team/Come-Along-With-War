@@ -1,0 +1,37 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Megavithaal Fleet"			
+		naval_base = 8924
+		task_force = {
+			name = "Megavithaal Fleet"
+			location = 8924
+			
+						ship = { name = "Bolce" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = MEG version_name = "Toplulturt Class" } }	}
+			ship = { name = "Ruzga" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = MEG version_name = "Toplulturt Class" } }	}
+			ship = { name = "Gecmis" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = MEG version_name = "Kader Class" } }	}
+			ship = { name = "Deninlik" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = MEG version_name = "Haynak Class" } }	}
+			ship = { name = "Nehir" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = MEG version_name = "Haynak Class" } }	}
+			ship = { name = "Sevda" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = MEG version_name = "Haynak Class" } }	}
+			ship = { name = "Daglikaylak" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = MEG version_name = "Simdirlis Class" } }	}
+			ship = { name = "Sevda 2" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = MEG version_name = "Haynak Class" } }	}
+			ship = { name = "Simdirlis" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = MEG version_name = "Haynak Class" } }	}
+			ship = { name = "Zaman" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = MEG version_name = "Kader Class" } }	}
+			ship = { name = "Tari" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = MEG version_name = "Kader Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

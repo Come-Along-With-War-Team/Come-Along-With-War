@@ -1,0 +1,64 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Veedu Fleet"			
+		naval_base = 8710
+		task_force = {
+			name = "Veedu Fleet"
+			location = 8710
+			
+						ship = { name = "Oosai" definition = battle_cruiser equipment = { battle_cruiser_1 = { amount = 1 owner = VEE version_name = "Nakkiriyalam Class" } }	}
+			ship = { name = "Kanneerannol" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEE version_name = "Uyiravamai Class" } }	}
+			ship = { name = "Uyiravamai" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEE version_name = "Uyiravamai Class" } }	}
+			ship = { name = "Thogugavai" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = VEE version_name = "Kuli Class" } }	}
+			ship = { name = "Muravai" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEE version_name = "Uyiravamai Class" } }	}
+			ship = { name = "Thunai" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEE version_name = "Uyiravamai Class" } }	}
+			ship = { name = "Veli" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEE version_name = "Uyiravamai Class" } }	}
+			ship = { name = "Thulal" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = VEE version_name = "Kuli Class" } }	}
+			ship = { name = "Uyiravamai 2" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = VEE version_name = "Kuli Class" } }	}
+			ship = { name = "Karam" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = VEE version_name = "Kuli Class" } }	}
+			ship = { name = "Muravai 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEE version_name = "Uyiravamai Class" } }	}
+			ship = { name = "Vizhakku" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = VEE version_name = "Nadhuru Class" } }	}
+			ship = { name = "Velimai" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEE version_name = "Uyiravamai Class" } }	}
+			ship = { name = "Oorulalal" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEE version_name = "Uyiravamai Class" } }	}
+			ship = { name = "Nadappu" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = VEE version_name = "Kuli Class" } }	}
+			ship = { name = "Velam" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = VEE version_name = "Nadhuru Class" } }	}
+			ship = { name = "Thippu" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEE version_name = "Uyiravamai Class" } }	}
+			ship = { name = "Mozi" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEE version_name = "Uyiravamai Class" } }	}
+			ship = { name = "Thogugavai 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = VEE version_name = "Nadhuru Class" } }	}
+			ship = { name = "Ooru" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = VEE version_name = "Kuli Class" } }	}
+			ship = { name = "Thudhamizhin" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = VEE version_name = "Nadhuru Class" } }	}
+			ship = { name = "Santhanai" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEE version_name = "Uyiravamai Class" } }	}
+			ship = { name = "Katturuli" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = VEE version_name = "Nadhuru Class" } }	}
+			ship = { name = "Thulal 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEE version_name = "Uyiravamai Class" } }	}
+			ship = { name = "Nattu" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = VEE version_name = "Nadhuru Class" } }	}
+			ship = { name = "Thakku" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEE version_name = "Uyiravamai Class" } }	}
+			ship = { name = "Kanneerannol 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEE version_name = "Uyiravamai Class" } }	}
+			ship = { name = "Idal" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEE version_name = "Uyiravamai Class" } }	}
+			ship = { name = "Vilai" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = VEE version_name = "Nadhuru Class" } }	}
+			ship = { name = "Inbu" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEE version_name = "Uyiravamai Class" } }	}
+			ship = { name = "Oorulalal 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEE version_name = "Uyiravamai Class" } }	}
+			ship = { name = "Thogugavai 3" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = VEE version_name = "Nadhuru Class" } }	}
+			ship = { name = "Santhanai 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = VEE version_name = "Nadhuru Class" } }	}
+			ship = { name = "Kuram" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEE version_name = "Uyiravamai Class" } }	}
+			ship = { name = "Mozi 2" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = VEE version_name = "Kuli Class" } }	}
+			ship = { name = "Katchi" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = VEE version_name = "Nadhuru Class" } }	}
+			ship = { name = "Vilai 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = VEE version_name = "Nadhuru Class" } }	}
+			ship = { name = "Idal 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEE version_name = "Uyiravamai Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

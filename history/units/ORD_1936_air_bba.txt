@@ -1,0 +1,22 @@
+air_wings = {
+		592 = { 								
+		large_plane_airframe_1 = { owner = "ORD" amount = 19 version_name = "Sapientus Mk 1" }
+small_plane_naval_bomber_airframe_0 = { owner = "ORD" amount = 16 version_name = "Seminatus Mk 2" }
+
+	}
+	741 = { 								
+		small_plane_airframe_0 = { owner = "ORD" amount = 17 version_name = "Patus Mk 1" }
+medium_plane_airframe_0 = { owner = "ORD" amount = 13 version_name = "Celebraes Mk 1" }
+
+	}
+	405 = { 								
+		small_plane_cas_airframe_0 = { owner = "ORD" amount = 14 version_name = "Plum Mk 2" }
+
+	}
+	138 = { 								
+		large_plane_airframe_0 = { owner = "ORD" amount = 18 version_name = "Mentus Mk 1" }
+
+	}
+
+
+}

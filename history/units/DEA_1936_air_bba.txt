@@ -1,0 +1,25 @@
+air_wings = {
+		588 = { 								
+		small_plane_airframe_0 = { owner = "DEA" amount = 36 version_name = "Chan Mk 2" }
+
+	}
+	109 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "DEA" amount = 46 version_name = "Pinxi Mk 0" }
+
+	}
+	36 = { 								
+		small_plane_cas_airframe_0 = { owner = "DEA" amount = 45 version_name = "Miang Mk 1" }
+medium_plane_airframe_0 = { owner = "DEA" amount = 50 version_name = "Pinxi Mk 0" }
+
+	}
+	447 = { 								
+		medium_plane_airframe_1 = { owner = "DEA" amount = 50 version_name = "Jing Mk 2" }
+
+	}
+	48 = { 								
+		medium_plane_airframe_1 = { owner = "DEA" amount = 50 version_name = "Jing Mk 2" }
+
+	}
+
+
+}
