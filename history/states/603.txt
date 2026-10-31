@@ -20,8 +20,9 @@ state = {
 		owner = CND
 		add_core_of = CND
 		victory_points = { 5984 35 }
+		victory_points = { 875 35 }
 	}
 
-	provinces = { 5984 5985 5986 5987 5988 5989 5990 }
+	provinces = { 875 5984 5985 5986 5987 5988 5989 5990 }
 	local_supplies = 0.0
 }

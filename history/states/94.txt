@@ -21,6 +21,6 @@ state = {
 		add_core_of = CND
 	}
 
-	provinces = { 1212 1213 1214 1215 1216 1217 }
+	provinces = { 1213 1214 1217 }
 	local_supplies = 0.0
 }

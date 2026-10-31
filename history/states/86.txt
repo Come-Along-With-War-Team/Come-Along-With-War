@@ -6,6 +6,7 @@ state = {
 	state_category = large_town
 	#impassable = yes
 
+
 	resources = {
 		aluminium = 2
 		chromium = 2
@@ -20,6 +21,6 @@ state = {
 		add_core_of = WLD
 	}
 
-	provinces = { 994 995 996 997 998 999 1000 1001 1002 }
+	provinces = { 994 995 996 997 998 1000 1001 1002 9431 9436 }
 	local_supplies = 0.0
 }

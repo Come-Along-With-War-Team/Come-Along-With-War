@@ -6,6 +6,7 @@ state = {
 	state_category = metropolis
 	#impassable = yes
 
+
 	resources = {
 		aluminium = 0
 		chromium = 0
@@ -20,6 +21,6 @@ state = {
 		add_core_of = WLD
 	}
 
-	provinces = { 1512 1513 1514 1515 1516 1517 1518 1519 1520 1521 1522 1523 1524 1525 1526 }
+	provinces = { 1512 1513 1514 1515 1516 1517 1518 1519 1520 1521 1522 1523 1524 1525 1526 9493 }
 	local_supplies = 0.0
 }

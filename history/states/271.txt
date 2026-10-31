@@ -21,6 +21,6 @@ state = {
 		add_core_of = WLD
 	}
 
-	provinces = { 2974 2975 2976 2977 }
+	provinces = { 2974 2975 2976 2977 9484 }
 	local_supplies = 0.0
 }

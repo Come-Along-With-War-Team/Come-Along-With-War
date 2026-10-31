@@ -14,7 +14,6 @@ state = {
 		rubber = 0
 		steel = 17
 		tungsten = 0
-		
 	}
 
 	history = {
@@ -22,6 +21,6 @@ state = {
 		add_core_of = WLD
 	}
 
-	provinces = { 3514 3515 3516 3517 3518 3519 3520 3521 3522 3523 3524 3525 3526 3527 3528 3529 }
+	provinces = { 3515 3516 3517 3518 3519 3520 3521 3522 3523 3524 3525 3529 9470 }
 	local_supplies = 0.0
 }
