@@ -34,3 +34,27 @@
  # =========================
  bonnibelianism:0 "Bonnibelianism"
  bonnibelianism_desc:0 "Bonnibelianism is a system of benevolent scientific absolutism built around Princess Bubblegum. Because the Candy People were engineered to be gentle and easily frightened, the state acts as an overprotective parent providing constant festivals and public care while quietly neutralizing threats from the shadows."
+ ducal_feudalism:0 "Ducal Feudalism"
+ ducal_feudalism_desc:0 "Old-world nobility rarely survives the modern age on its own, so the smartest dukes and minor royals simply sign a contract with a bigger crown. Under Ducal Feudalism, local lords keep their castles, their velvet capes, and their ballroom waltzes, while trained clerks from their overlord's capital handle the taxes, roads, and border guards. It is a comfortable arrangement for everyone at court. So long as the realm stays quiet and the royal pudding shipments arrive on time, the nobility is more than happy to let the scientists and bureaucrats do the actual thinking."
+
+
+ # =========================
+ # SUPREMACIST SUB-IDEOLOGIES
+ # =========================
+ national_confectionism:0 "National Confectionism"
+ national_confectionism_desc:0 "National Confectionism is an authoritarian, pro-industrial ideology of Uncle Gumbald. Its followers believe that all creations of the Mother Gum should be united under a single state, and that Princess Bubblegum has wasted eight hundred years treating the kingdom like a playground instead of a superpower."
+
+
+ # =========================
+ # COLLECTIVISM SUB-IDEOLOGIES
+ # =========================
+ starchism:0 "Starchism"
+ starchism_desc:0 "Starchism is the political philosophy of Starchy, founder of the Veritas Brigade. Born from late-night Graveyard Shift radio broadcasts and secret meetings beneath the Candy Kingdom prior to the Confectionery Revolution, Starchists believe that the socialist movement can only survive under the strict protection of a vanguard party. Surrounded by outside threats like Princess Bubblegum's fascist regime, the revolution cannot afford to let its guard down. Princesses do not rule by divine right, for power belongs of the people, by the people, and for the people, even if Starchy has to tap every phone line in town to keep it that way."
+ trunkism:0 "Trunkism"
+ trunkism_desc:0 "Named after the matriarch of the Apple Orchards, Trunkism is a homespun socialism of farmers, bakers, and factory workers who want the crown out of their kitchens and want every kingdom in Ooo to taste the same freedom. Why should a princess in a castle decide who gets a permit to wed, who owns the trees, or how a family raises their child? Unlike Starchy's paranoid "socialism in one country," Trunkists believe the revolution cannot stay fenced inside the orchards. Until every royal throne is toppled and every worker across Ooo gets a seat at the table and a warm slice of apple pie, no commune is truly safe."
+
+ # =========================
+ # TRADITIONALISM SUB-IDEOLOGIES
+ # =========================
+ despotism:0 "Despotism"
+ despotism_desc:0 "Not every autocrat wants to conquer the world or rebuild society from scratch. Despotism is the rule of an absolute master who simply wants the realm to stay quiet, follow the rules, and leave the throne alone. There are no grand ideological crusades here. Just strict laws, heavy castle gates, and a ruler whose word is final. Life inside the walls can be eccentric and harsh if you step out of line, but after years of chaos, even a sour, grumpy ruler who keeps the peace is better than what came before."

@@ -1,2 +1,6 @@
 CND = "countries/Candy Kingdom.txt"
+GMB = "countries/Gumbaldia.txt"
+VRT = "countries/Veritas.txt"
+LEM = "countries/Lemongrab.txt"
+NUT = "countries/Nut.txt"
 WLD = "countries/Wilderness.txt"

@@ -19,9 +19,8 @@ state = {
 	history = {
 		owner = CND
 		add_core_of = CND
-		victory_points = { 6290 35 }
 	}
 
-	provinces = { 6288 6289 6290 6291 6292 6293 6294 }
+	provinces = { 3996 6288 6291 6292 6293 6294 }
 	local_supplies = 0.0
 }

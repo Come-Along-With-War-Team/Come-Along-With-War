@@ -1,0 +1,16 @@
+characters = {
+    GMB_uncle_gumbald = {
+        name = "Gumbald"
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/GMB/Gumbald.dds"
+            }
+        }
+        country_leader = {
+            ideology = national_confectionism
+            traits = { dictator }
+            expire = "1965.1.1"
+            id = -1
+        }
+    }
+}

@@ -17,6 +17,34 @@ bookmarks = {
 			ideas = { CND_the_monitor_room CND_a_house_divided CND_sugar_and_circuses CND_thin_yellow_line }
 			focuses = { }
 		}
+
+		"GMB" = {
+			history = "GMB_COME_ALONG_WITH_WAR_DESC"
+			ideology = supremacist
+			ideas = { }
+			focuses = { }
+		}
+
+		"VRT" = {
+			history = "VRT_COME_ALONG_WITH_WAR_DESC"
+			ideology = collectivism
+			ideas = { }
+			focuses = { }
+		}
+
+		"LEM" = {
+			history = "LEM_COME_ALONG_WITH_WAR_DESC"
+			ideology = traditionalism
+			ideas = { }
+			focuses = { }
+		}
+
+		"NUT" = {
+			history = "NUT_COME_ALONG_WITH_WAR_DESC"
+			ideology = traditionalism
+			ideas = { }
+			focuses = { }
+		}
 	}
 	bookmark = {
 		name = "WAR_FOR_OOO_NAME"
@@ -33,6 +61,13 @@ bookmarks = {
 			history = "CND_COME_ALONG_WITH_WAR_DESC"
 			ideology = rationalism
 			ideas = { CND_the_monitor_room CND_a_house_divided CND_sugar_and_circuses CND_thin_yellow_line }
+			focuses = { }
+		}
+
+		"GMB" = {
+			history = "GMB_COME_ALONG_WITH_WAR_DESC"
+			ideology = supremacist
+			ideas = { }
 			focuses = { }
 		}
 	}

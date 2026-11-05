@@ -11,13 +11,7 @@ ideologies = {
     rationalism = {
         types = {
             bonnibelianism = { }
-            calculated_technocracy = { }
-            light_cloud_preservationism = { }
-            hearth_fire_constitutionalism = { }
-            petrikovian_reconstructionism = { }
-            enchiridion_scholasticism = { }
-            positronic_materialism = { }
-            mellowed_governance = { }
+            ducal_feudalism = { }
         }
 
         dynamic_faction_names = { "FACTION_NAME_RATIONALISM_1" "FACTION_NAME_RATIONALISM_2" }
@@ -53,20 +47,12 @@ ideologies = {
 
     supremacist = {
         types = {
-            corporate_revanchism = { }
-            counterfeit_heroism = { }
-            combustion_imperialism = { }
-            sour_citadellism = { }
-            pure_blood_sanguinism = { }
-            transhuman_biopower = { }
-            gelatinous_hegemony = { }
-            plunder_baron_despotism = { }
-            wiz_biz_elitism = { }
+            national_confectionism = { }
         }
 
         dynamic_faction_names = { "FACTION_NAME_SUPREMACIST_1" "FACTION_NAME_SUPREMACIST_2" }
 
-        color = { 190 35 35 }
+        color = { 180 65 210 }
 
         rules = {
             can_force_government = yes
@@ -97,14 +83,7 @@ ideologies = {
 
     collectivism = {
         types = {
-            veritas_vanguardism = { }
-            orchard_peasant_communalism = { }
-            grassroots_confectionery_rebelism = { }
-            flotilla_councilism = { }
-            smelter_syndicalism = { }
-            subterranean_ooze_sovietism = { }
-            sub_stack_unionism = { }
-            all_mo_cyber_syndicalism = { }
+            starchism = { }
         }
 
         dynamic_faction_names = { "FACTION_NAME_COLLECTIVISM_1" "FACTION_NAME_COLLECTIVISM_2" }
@@ -140,18 +119,12 @@ ideologies = {
 
     traditionalism = {
         types = {
-            senile_cryocracy = { }
-            bro_code_adventurism = { }
-            nuttian_feudal_inertia = { }
-            groovy_pacifism = { }
-            chelonian_isolationism = { }
-            corrugated_cardboard_autonomy = { }
-            bramble_berry_neutrality = { }
+            despotism = { }
         }
 
         dynamic_faction_names = { "FACTION_NAME_TRADITIONALISM_1" "FACTION_NAME_TRADITIONALISM_2" }
 
-        color = { 150 90 190 }
+        color = { 55 190 80 }
 
         rules = {
             can_force_government = no
@@ -182,17 +155,12 @@ ideologies = {
 
     annihilation = {
         types = {
-            last_scholar_extinction = { }
             golbian_accelerationism = { }
-            emissarys_curse = { }
-            primordial_celestial_gluttony = { }
-            terminal_acoustic_entropism = { }
-            nightosphere_soul_predation = { }
         }
 
         dynamic_faction_names = { "FACTION_NAME_ANNIHILATION_1" "FACTION_NAME_ANNIHILATION_2" }
 
-        color = { 45 165 75 }
+        color = { 0 0 0 }
 
         rules = {
             can_force_government = no

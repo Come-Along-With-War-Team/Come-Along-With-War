@@ -1,0 +1,15 @@
+state = {
+    id = 1074
+    name = "STATE_1074"
+    manpower = 0
+    state_category = wasteland
+
+    history = {
+        owner = "NUT"
+        add_core_of = "NUT"
+    }
+
+    provinces = { 6687 6693 6697 }
+
+    local_supplies = 0
+}

@@ -6,6 +6,26 @@ CND = {
 	color_ui = rgb { 245 150 195 }
 }
 
+GMB = {
+	color = rgb { 100 3 155 }
+	color_ui = rgb { 225 80 210 }
+}
+
+VRT = {
+	color = rgb { 215 70 70 }
+	color_ui = rgb { 230 90 90 }
+}
+
+LEM = {
+	color = rgb { 190 195 55 }
+	color_ui = rgb { 210 220 75 }
+}
+
+NUT = {
+	color = rgb { 220 145 5 }
+	color_ui = rgb { 240 165 25 }
+}
+
 WLD = {
 	color = rgb { 95 110 95 }
 	color_ui = rgb { 115 130 115 }

@@ -1,0 +1,29 @@
+capital = 153
+
+oob = ""
+
+set_research_slots = 3
+
+set_stability = 0.75
+set_war_support = 0.30
+
+# Starting Politics
+
+set_politics = {
+    ruling_party = collectivism
+    last_election = "1004.1.1"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+    collectivism = 80
+    rationalism = 10
+    traditionalism = 5
+    supremacist = 5
+    annihilation = 0
+}
+
+recruit_character = VRT_starchy
+
+add_ideas = { }

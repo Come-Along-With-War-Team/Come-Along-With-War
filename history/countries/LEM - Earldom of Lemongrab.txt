@@ -1,0 +1,30 @@
+capital = 726
+
+oob = ""
+
+set_research_slots = 3
+
+set_stability = 0.75
+set_war_support = 0.30
+
+# Starting Politics
+
+
+set_politics = {
+    ruling_party = traditionalism
+    last_election = "1004.1.1"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+    traditionalism = 65
+    rationalism = 25
+    traditionalism = 5
+    supremacist = 5
+    annihilation = 0
+}
+
+recruit_character = LEM_lemongrab
+
+add_ideas = { }

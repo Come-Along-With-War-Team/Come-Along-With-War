@@ -13,3 +13,43 @@
  CND_supremacist_party_long:0 "Pan-Gum Nationalists"
  CND_annihilation_party:0 "TPO"
  CND_annihilation_party_long:0 "The Peppermint Order"
+
+ # Republic of Candy
+ GMB_rationalism_party:0 "CUP"
+ GMB_rationalism_party_long:0 "Candy Unity Party"   
+ GMB_traditionalism_party:0 "NLP"
+ GMB_traditionalism_party_long:0 "National Legionary Party"
+ GMB_collectivism_party:0 "GWP"
+ GMB_collectivism_party_long:0 "Gumbaldian Workers' Party"
+ GMB_supremacist_party:0 "PGNP"
+ GMB_supremacist_party_long:0 "Pan-Gum Nationalist Party"
+
+ # Veritasian
+ VRT_rationalism_party:0 "SDP-V"
+ VRT_rationalism_party_long:0 "Social Democratic Party of Veritas"
+ VRT_traditionalism_party:0 "OWFP"
+ VRT_traditionalism_party_long:0 "Orchard Working Family Party"
+ VRT_collectivism_party:0 "VSP"
+ VRT_collectivism_party_long:0 "Veritasian Socialist Party"
+ VRT_supremacist_party:0 "NCP"
+ VRT_supremacist_party_long:0 "National Communalism Party of Veritas"
+
+ # Lemongrab
+ LEM_rationalism_party:0 "LHM"
+ LEM_rationalism_party_long:0 "Lemon Hope Movement"
+ LEM_traditionalism_party:0 "ECL"
+ LEM_traditionalism_party_long:0 "Earl's Court of Lemongrab"
+ LEM_collectivism_party:0 "Lemon Worker's Party"
+ LEM_collectivism_party_long:0 "LWP"
+ LEM_supremacy_party:0 "RP"
+ LEM_supremacy_party_long:0 "Reconditioning Party"
+
+ # Duchy of Nuts
+ NUT_rationalism_party:0 "RDC"
+ NUT_rationalism_party_long:0 "Royal Ducal Chancellery"
+ NUT_traditionalism_party:0 "HON"
+ NUT_traditionalism_party_long:0 "House of Nuts"
+ NUT_collectivism_party:0 "NWU"
+ NUT_collectivism_party_long:0 "Nut Workers' Union"
+ NUT_supremacy_party:0 "DGF"
+ NUT_supremacy_party_long:0 "Duchess's Guard Faction"

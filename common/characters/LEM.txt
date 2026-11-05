@@ -1,0 +1,16 @@
+characters = {
+    LEM_lemongrab = {
+        name = "Lemongrab"
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/LEM/Lemongrab.dds"
+            }
+        }
+        country_leader = {
+            ideology = despotism
+            traits = { dictator }
+            expire = "1965.1.1"
+            id = -1
+        }
+    }
+}
