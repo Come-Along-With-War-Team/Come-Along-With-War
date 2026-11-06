@@ -1,0 +1,15 @@
+# Krita & Affinity Backup / Temp Files
+*.kra~
+*.afdesign~
+*.afphoto~
+*~
+
+# Windows / macOS Junk
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary Map / Nudge / Crash logs (if any)
+*.log
+*.bak
+*.tmp
