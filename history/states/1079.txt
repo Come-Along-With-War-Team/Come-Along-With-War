@@ -1,0 +1,15 @@
+state = {
+    id = 1079
+    name = "STATE_1079"
+    manpower = 0
+    state_category = wasteland
+
+    history = {
+        owner = VRT
+        add_core_of = VRT
+    }
+
+    provinces = { 1751 1755 1757 1760 }
+
+    local_supplies = 0
+}

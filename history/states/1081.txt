@@ -1,0 +1,15 @@
+state = {
+    id = 1081
+    name = "STATE_1081"
+    manpower = 0
+    state_category = wasteland
+
+    history = {
+        owner = VRT
+        add_core_of = VRT
+    }
+
+    provinces = { 1817 1818 1820 1822 1826 1829 1833 1836 1839 }
+
+    local_supplies = 0
+}
