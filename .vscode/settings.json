@@ -5,11 +5,20 @@
         "*.txt": "hoi4",
         "*.gui": "hoi4",
         "*.mod": "hoi4",
-        "*.gfx": "hoi4"
+        "*.gfx": "hoi4",
+        "*_l_*.yml": "paradox-localisation"
     },
     "files.encoding": "utf8",
     "[hoi4]": {
         "files.encoding": "utf8"
+    },
+    "[paradox-localisation]": {
+        "files.encoding": "utf8bom",
+        "editor.formatOnSave": false
+    },
+    "[yaml]": {
+        "files.encoding": "utf8bom",
+        "editor.formatOnSave": false
     },
     "files.autoGuessEncoding": false,
     "mdHoi4Utilities.modFile": "c:\\Users\\azisk\\Documents\\Paradox Interactive\\Hearts of Iron IV\\mod\\Come Along With War\\descriptor.mod",
