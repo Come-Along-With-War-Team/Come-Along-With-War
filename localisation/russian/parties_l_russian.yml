@@ -1,0 +1,55 @@
+﻿l_russian:
+
+ # Candy Kingdom
+ CND_rationalism_party:0 "Двор Боннибель"
+ CND_rationalism_party_long:0 "Двор Боннибель"
+ CND_rationalism_party_gcrp:0 "ПКРЛ"
+ CND_rationalism_party_gcrp_long:0 "Партия Конфетных Роялистов Лугов"
+ CND_traditionalism_party:0 "ОТРП"
+ CND_traditionalism_party_long:0 "Партия Единственных Истинных Роялистов"
+ CND_collectivism_party:0 "КП"
+ CND_collectivism_party_long:0 "Конфетный Профсоюз"
+ CND_supremacist_party:0 "ПЖНП"
+ CND_supremacist_party_long:0 "Пан-жвачные националисты"
+ CND_annihilation_party:0 "ОПМ"
+ CND_annihilation_party_long:0 "Орден Перечной Мяты"
+
+ # Republic of Candy
+ GMB_rationalism_party:0 "ПЕК"
+ GMB_rationalism_party_long:0 "Партия Единства Конфет"   
+ GMB_traditionalism_party:0 "НЛП"
+ GMB_traditionalism_party_long:0 "Национальная Легионерская Партия"
+ GMB_collectivism_party:0 "РПГ"
+ GMB_collectivism_party_long:0 "Рабочая Партия Гумбальдии"
+ GMB_supremacist_party:0 "ПГНП"
+ GMB_supremacist_party_long:0 "Пан-Жвачковая Националистическая Партия"
+
+ # Veritasian
+ VRT_rationalism_party:0 "СДП-В"
+ VRT_rationalism_party_long:0 "Социал-Демократическая Партия Веритаса"
+ VRT_traditionalism_party:0 "ПРСФ"
+ VRT_traditionalism_party_long:0 "Партия Рабочих Семей Фруктовых Садов"
+ VRT_collectivism_party:0 "ВСП"
+ VRT_collectivism_party_long:0 "Веритасская Социалистическая Партия"
+ VRT_supremacist_party:0 "НКП"
+ VRT_supremacist_party_long:0 "Национальная Коммуналистская Партия Веритаса"
+
+ # Lemongrab
+ LEM_rationalism_party:0 "ДЛН"
+ LEM_rationalism_party_long:0 "Движение Лимонной Надежды"
+ LEM_traditionalism_party:0 "ДГЛ"
+ LEM_traditionalism_party_long:0 "Двор Графа Лимоновата"
+ LEM_collectivism_party:0 "Партия Лимонных Рабочих"
+ LEM_collectivism_party_long:0 "ПЛР"
+ LEM_supremacy_party:0 "ПП"
+ LEM_supremacy_party_long:0 "Партия Перевоспитания"
+
+ # Duchy of Nuts
+ NUT_rationalism_party:0 "КГК"
+ NUT_rationalism_party_long:0 "Королевская Герцогская Канцелярия"
+ NUT_traditionalism_party:0 "ДО"
+ NUT_traditionalism_party_long:0 "Дом Орехов"
+ NUT_collectivism_party:0 "ПОР"
+ NUT_collectivism_party_long:0 "Профсоюз Ореховых Рабочих"
+ NUT_supremacy_party:0 "Лоялисты"
+ NUT_supremacy_party_long:0 "Фракция Герцогской Гвардии"
