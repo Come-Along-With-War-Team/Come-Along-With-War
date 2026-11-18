@@ -1,0 +1,57 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Taniq Fleet"			
+		naval_base = 8918
+		task_force = {
+			name = "Taniq Fleet"
+			location = 8918
+			
+						ship = { name = "Ukpik" definition = carrier equipment = { carrier_1 = { amount = 1 owner = IAN version_name = "Nunavutuuq Class" } }	}
+			ship = { name = "Silagaaq" definition = battleship equipment = { battleship_1 = { amount = 1 owner = IAN version_name = "Kugaannu Class" } }	}
+			ship = { name = "Kalluktuk" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = IAN version_name = "Kanuq Class" } }	}
+			ship = { name = "Kuvat" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = IAN version_name = "Anavivi Class" } }	}
+			ship = { name = "Avanura" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = IAN version_name = "Avivak Class" } }	}
+			ship = { name = "Inuvaniq" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = IAN version_name = "Redoubt Class" } }	}
+			ship = { name = "Panaapik" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = IAN version_name = "Anavivi Class" } }	}
+			ship = { name = "Imaq" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = IAN version_name = "Anavivi Class" } }	}
+			ship = { name = "Nalikilapik" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = IAN version_name = "Anavivi Class" } }	}
+			ship = { name = "Kalluktuk 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = IAN version_name = "Anavivi Class" } }	}
+			ship = { name = "Kanuq" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = IAN version_name = "Anavivi Class" } }	}
+			ship = { name = "Bubuk" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = IAN version_name = "Anavivi Class" } }	}
+			ship = { name = "Kangelle" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = IAN version_name = "Anavivi Class" } }	}
+			ship = { name = "Takuvaq" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = IAN version_name = "Avivak Class" } }	}
+			ship = { name = "Avivak" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = IAN version_name = "Anavivi Class" } }	}
+			ship = { name = "Avanura 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = IAN version_name = "Avivak Class" } }	}
+			ship = { name = "Kanuq 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = IAN version_name = "Kanuq Class" } }	}
+			ship = { name = "Ilikiqiluk" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = IAN version_name = "Kanuq Class" } }	}
+			ship = { name = "Imaqpaktuuq" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = IAN version_name = "Avivak Class" } }	}
+			ship = { name = "Agluliaq" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = IAN version_name = "Avivak Class" } }	}
+			ship = { name = "Nipikiggaq" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = IAN version_name = "Avivak Class" } }	}
+			ship = { name = "Qiniqpuk" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = IAN version_name = "Redoubt Class" } }	}
+			ship = { name = "Kalluktuk 3" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = IAN version_name = "Kanuq Class" } }	}
+			ship = { name = "Agluliaq 2" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = IAN version_name = "Redoubt Class" } }	}
+			ship = { name = "Nalikilapik 2" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = IAN version_name = "Redoubt Class" } }	}
+			ship = { name = "Avanura 3" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = IAN version_name = "Avivak Class" } }	}
+			ship = { name = "Nangiqpak" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = IAN version_name = "Kanuq Class" } }	}
+			ship = { name = "Bubuk 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = IAN version_name = "Anavivi Class" } }	}
+			ship = { name = "Kuvik" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = IAN version_name = "Avivak Class" } }	}
+			ship = { name = "Silagaaq 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = IAN version_name = "Anavivi Class" } }	}
+			ship = { name = "Bubt" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = IAN version_name = "Kanuq Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

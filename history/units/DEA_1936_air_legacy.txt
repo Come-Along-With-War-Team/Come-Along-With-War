@@ -1,0 +1,25 @@
+air_wings = {
+		588 = { 								
+		fighter_equipment_0 = { owner = "DEA" amount = 36 version_name = "Chan Mk 2" }
+
+	}
+	109 = { 								
+		nav_bomber_equipment_0 = { owner = "DEA" amount = 46 version_name = "Pinxi Mk 0" }
+
+	}
+	36 = { 								
+		CAS_equipment_0 = { owner = "DEA" amount = 45 version_name = "Miang Mk 1" }
+tac_bomber_equipment_0 = { owner = "DEA" amount = 50 version_name = "Pinxi Mk 0" }
+
+	}
+	447 = { 								
+		tac_bomber_equipment_0 = { owner = "DEA" amount = 50 version_name = "Jing Mk 2" }
+
+	}
+	48 = { 								
+		tac_bomber_equipment_0 = { owner = "DEA" amount = 50 version_name = "Jing Mk 2" }
+
+	}
+
+
+}

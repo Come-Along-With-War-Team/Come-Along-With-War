@@ -1,0 +1,120 @@
+division_template = {
+	name = "Militia Division"
+
+	regiments = {
+			infantry = {  x = 0 y = 0 }
+			infantry = {  x = 0 y = 1 }
+			infantry = {  x = 0 y = 2 }
+			infantry = {  x = 1 y = 0 }
+			infantry = {  x = 1 y = 1 }
+
+	}
+	
+	support = {
+
+	}
+}
+division_template = {
+	name = "Infantry Division"
+
+	regiments = {
+			infantry = {  x = 0 y = 0 }
+			infantry = {  x = 0 y = 1 }
+			infantry = {  x = 0 y = 2 }
+			infantry = {  x = 1 y = 0 }
+			infantry = {  x = 1 y = 1 }
+			infantry = {  x = 1 y = 2 }
+			infantry = {  x = 2 y = 0 }
+			infantry = {  x = 2 y = 1 }
+			infantry = {  x = 2 y = 2 }
+
+	}
+	
+	support = {
+
+	}
+}
+division_template = {
+	name = "Artillery Division"
+
+	regiments = {
+			infantry = {  x = 0 y = 0 }
+			infantry = {  x = 0 y = 1 }
+			infantry = {  x = 0 y = 2 }
+			infantry = {  x = 1 y = 0 }
+			infantry = {  x = 1 y = 1 }
+			infantry = {  x = 1 y = 2 }
+			infantry = {  x = 2 y = 0 }
+			infantry = {  x = 2 y = 1 }
+			infantry = {  x = 2 y = 2 }
+			artillery_brigade = {  x = 3 y = 0 }
+			artillery_brigade = {  x = 3 y = 1 }
+
+	}
+	
+	support = {
+			artillery = {  x = 0 y = 0 }
+			anti_tank = {  x = 0 y = 1 }
+
+	}
+}
+division_template = {
+	name = "Cavalry Division"
+
+	regiments = {
+			cavalry = {  x = 0 y = 0 }
+			cavalry = {  x = 0 y = 1 }
+			cavalry = {  x = 0 y = 2 }
+			cavalry = {  x = 1 y = 0 }
+			cavalry = {  x = 1 y = 1 }
+			cavalry = {  x = 1 y = 2 }
+			cavalry = {  x = 2 y = 0 }
+			cavalry = {  x = 2 y = 1 }
+			cavalry = {  x = 2 y = 2 }
+
+	}
+	
+	support = {
+
+	}
+}
+
+
+units = {
+	division= {
+		name = "1st 'Shen' Artillery Division"
+		location = 7014
+		division_template = "Artillery Division"
+		start_experience_factor = 0.768252
+		start_equipment_factor = 0.976101
+	}
+	division= {
+		name = "2nd 'Huai' Artillery Division"
+		location = 4970
+		division_template = "Artillery Division"
+		start_experience_factor = 0.917263
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "3rd 'Vizhurivu' Artillery Division"
+		location = 114
+		division_template = "Artillery Division"
+		start_experience_factor = 0.758339
+		start_equipment_factor = 0.879484
+	}
+	division= {
+		name = "4th 'Oosai' Artillery Division"
+		location = 4258
+		division_template = "Artillery Division"
+		start_experience_factor = 0.204188
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "5th 'Mian' Artillery Division"
+		location = 1580
+		division_template = "Artillery Division"
+		start_experience_factor = 0.815358
+		start_equipment_factor = 0.923996
+	}
+
+}

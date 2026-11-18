@@ -1,0 +1,26 @@
+state = {
+	id = 66
+	name = "STATE_66"
+	manpower = 187977
+
+	state_category = rural
+	#impassable = yes
+
+
+	resources = {
+		aluminium = 0
+		chromium = 0
+		oil = 0
+		rubber = 0
+		steel = 0
+		tungsten = 0
+	}
+
+	history = {
+		owner = CND
+		add_core_of = CND
+	}
+
+	provinces = { 816 817 818 819 820 }
+	local_supplies = 0.0
+}

@@ -1,0 +1,26 @@
+state = {
+	id = 527
+	name = "STATE_527"
+	manpower = 366510
+
+	state_category = city
+	#impassable = yes
+
+
+	resources = {
+		aluminium = 0
+		chromium = 0
+		oil = 1
+		rubber = 0
+		steel = 0
+		tungsten = 0
+	}
+
+	history = {
+		owner = WBY
+		add_core_of = WBY
+	}
+
+	provinces = { 5190 5191 5192 5193 5194 5195 5196 6617 6625 6630 6631 9495 }
+	local_supplies = 0.0
+}

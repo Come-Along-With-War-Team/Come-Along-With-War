@@ -1,0 +1,49 @@
+air_wings = {
+		343 = { 								
+		small_plane_airframe_0 = { owner = "BOI" amount = 50 version_name = "Azrart Mk 0" }
+
+	}
+	13 = { 								
+		medium_plane_airframe_0 = { owner = "BOI" amount = 50 version_name = "Takwint Mk 2" }
+
+	}
+	625 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "BOI" amount = 50 version_name = "Tatri Mk 2" }
+
+	}
+	593 = { 								
+		medium_plane_airframe_1 = { owner = "BOI" amount = 50 version_name = "Amenzurt Mk 2" }
+
+	}
+	406 = { 								
+		large_plane_airframe_0 = { owner = "BOI" amount = 50 version_name = "Tazra Mk 1" }
+
+	}
+	620 = { 								
+		medium_plane_airframe_1 = { owner = "BOI" amount = 50 version_name = "Amenzurt Mk 2" }
+small_plane_cas_airframe_0 = { owner = "BOI" amount = 50 version_name = "Tamsiri Mk 1" }
+
+	}
+	25 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "BOI" amount = 50 version_name = "Tatri Mk 2" }
+
+	}
+	258 = { 								
+		large_plane_airframe_0 = { owner = "BOI" amount = 50 version_name = "Tazra Mk 1" }
+
+	}
+	437 = { 								
+		medium_plane_airframe_0 = { owner = "BOI" amount = 50 version_name = "Takwint Mk 2" }
+
+	}
+	760 = { 								
+		small_plane_cas_airframe_0 = { owner = "BOI" amount = 50 version_name = "Tamsiri Mk 1" }
+
+	}
+	469 = { 								
+		small_plane_airframe_0 = { owner = "BOI" amount = 50 version_name = "Azrart Mk 0" }
+
+	}
+
+
+}

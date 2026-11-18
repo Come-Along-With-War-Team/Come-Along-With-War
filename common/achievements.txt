@@ -1,0 +1,1 @@
+# Override vanilla achievements.txt so vanilla tag/focus/ideology checks do not run.

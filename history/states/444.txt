@@ -1,0 +1,29 @@
+state = {
+	id = 444
+	name = "STATE_444"
+	manpower = 648017
+
+	state_category = city
+	#impassable = yes
+
+
+	resources = {
+		aluminium = 0
+		chromium = 0
+		oil = 0
+		rubber = 0
+		steel = 0
+		tungsten = 0
+	}
+
+	history = {
+		owner = FRK
+		add_core_of = FRK
+	}
+
+	provinces = {
+		4550 4553 4558 4562 4564 4568 4573 4575 4576 4582 4583 4584 4586 4587 4589 4590 4592 4594 4596 4601 4605 4609
+		4610 4612 9462 9463 9464 9465
+	}
+	local_supplies = 0.0
+}

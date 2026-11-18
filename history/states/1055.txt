@@ -1,0 +1,25 @@
+state = {
+	id = 1055
+	name = "STATE_1055"
+	manpower = 3534
+
+	state_category = small_island
+	#impassable = yes
+
+	resources = {
+		aluminium = 0
+		chromium = 0
+		oil = 0
+		rubber = 0
+		steel = 0
+		tungsten = 0
+	}
+
+	history = {
+		owner = WLD
+		add_core_of = WLD
+	}
+
+	provinces = { 8922 }
+	local_supplies = 0.0
+}

@@ -1,0 +1,15 @@
+state = {
+    id = 907
+    name = "STATE_907"
+    manpower = 10000
+    state_category = wasteland
+
+    history = {
+        owner = BND
+        add_core_of = BND
+    }
+
+    provinces = { 2321 2326 2329 2332 2343 2344 2354 }
+
+    local_supplies = 0
+}

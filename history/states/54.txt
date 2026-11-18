@@ -1,0 +1,29 @@
+state = {
+	id = 54
+	name = "STATE_54"
+	manpower = 438758
+
+	state_category = rural
+	#impassable = yes
+
+
+	resources = {
+		aluminium = 0
+		chromium = 0
+		oil = 0
+		rubber = 0
+		steel = 0
+		tungsten = 0
+	}
+
+	history = {
+		owner = SLM
+		add_core_of = SLM
+	}
+
+	provinces = {
+		668 669 670 671 672 673 675 676 677 678 679 680 681 682 683 685 687 688 689 690 691 692 693 694 695 696 697 699
+		700 701 702 703 704 705 706 708 711 712 713
+	}
+	local_supplies = 0.0
+}

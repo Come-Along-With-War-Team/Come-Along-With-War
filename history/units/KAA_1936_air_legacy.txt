@@ -1,0 +1,24 @@
+air_wings = {
+		223 = { 								
+		tac_bomber_equipment_0 = { owner = "KAA" amount = 50 version_name = "Sugavaikku Mk 2" }
+
+	}
+	365 = { 								
+		CAS_equipment_0 = { owner = "KAA" amount = 50 version_name = "Nunbam Mk 0" }
+
+	}
+	500 = { 								
+		CAS_equipment_0 = { owner = "KAA" amount = 50 version_name = "Nunbam Mk 0" }
+fighter_equipment_0 = { owner = "KAA" amount = 50 version_name = "Mozi Mk 2" }
+fighter_equipment_0 = { owner = "KAA" amount = 50 version_name = "Mozi Mk 2" }
+strat_bomber_equipment_0 = { owner = "KAA" amount = 50 version_name = "Mozi Mk 2" }
+tac_bomber_equipment_0 = { owner = "KAA" amount = 50 version_name = "Sugavaikku Mk 2" }
+
+	}
+	973 = { 								
+		strat_bomber_equipment_0 = { owner = "KAA" amount = 50 version_name = "Mozi Mk 2" }
+
+	}
+
+
+}

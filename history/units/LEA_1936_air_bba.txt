@@ -1,0 +1,33 @@
+air_wings = {
+		321 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "LEA" amount = 50 version_name = "Deann Mk 0" }
+
+	}
+	174 = { 								
+		small_plane_airframe_0 = { owner = "LEA" amount = 50 version_name = "Boithanch Mk 2" }
+
+	}
+	212 = { 								
+		small_plane_airframe_0 = { owner = "LEA" amount = 50 version_name = "Boithanch Mk 2" }
+
+	}
+	295 = { 								
+		small_plane_cas_airframe_0 = { owner = "LEA" amount = 50 version_name = "Cine Mk 2" }
+
+	}
+	220 = { 								
+		small_plane_cas_airframe_0 = { owner = "LEA" amount = 50 version_name = "Cine Mk 2" }
+
+	}
+	363 = { 								
+		medium_plane_airframe_0 = { owner = "LEA" amount = 50 version_name = "Muidh Mk 0" }
+
+	}
+	79 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "LEA" amount = 50 version_name = "Deann Mk 0" }
+medium_plane_airframe_0 = { owner = "LEA" amount = 50 version_name = "Muidh Mk 0" }
+
+	}
+
+
+}

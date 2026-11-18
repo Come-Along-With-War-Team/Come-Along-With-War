@@ -1,0 +1,27 @@
+state = {
+	id = 780
+	name = "STATE_780"
+	manpower = 164308
+
+	state_category = rural
+	#impassable = yes
+
+
+	resources = {
+		aluminium = 0
+		chromium = 0
+		oil = 0
+		rubber = 4
+		steel = 0
+		tungsten = 0
+		
+	}
+
+	history = {
+		owner = CRY
+		add_core_of = CRY
+	}
+
+	provinces = { 7372 7373 7374 }
+	local_supplies = 0.0
+}

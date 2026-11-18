@@ -1,0 +1,34 @@
+air_wings = {
+		689 = { 								
+		strat_bomber_equipment_0 = { owner = "BZH" amount = 48 version_name = "Savana Mk 1" }
+
+	}
+	21 = { 								
+		tac_bomber_equipment_0 = { owner = "BZH" amount = 50 version_name = "Topra Mk 1" }
+
+	}
+	765 = { 								
+		nav_bomber_equipment_0 = { owner = "BZH" amount = 50 version_name = "Gece Mk 1" }
+tac_bomber_equipment_0 = { owner = "BZH" amount = 50 version_name = "Topra Mk 1" }
+
+	}
+	24 = { 								
+		fighter_equipment_0 = { owner = "BZH" amount = 50 version_name = "Tarimaniz Mk 1" }
+
+	}
+	604 = { 								
+		nav_bomber_equipment_0 = { owner = "BZH" amount = 50 version_name = "Gece Mk 1" }
+
+	}
+	722 = { 								
+		CAS_equipment_0 = { owner = "BZH" amount = 50 version_name = "Ulken Mk 0" }
+
+	}
+	553 = { 								
+		CAS_equipment_0 = { owner = "BZH" amount = 50 version_name = "Ulken Mk 0" }
+fighter_equipment_0 = { owner = "BZH" amount = 50 version_name = "Tarimaniz Mk 1" }
+
+	}
+
+
+}

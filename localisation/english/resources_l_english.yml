@@ -1,0 +1,25 @@
+﻿l_english:
+ rubber:0 "Candy"
+ rubber_desc:0 "Spun sugar, stretchy taffy sap, and thick fruit pectin harvested across the Candy Basin. Boiled down to the right consistency, it makes surprisingly tough truck tires, airframe seals, and shock-absorbing gaskets."
+
+ steel:0 "Steel"
+ steel_desc:0 "Rusted highway girders, subway rails, and fresh pig-iron smelted in volcanic calderas. Whether you're forging a broadsword or riveting a tank hull together, nothing beats good old-fashioned metal."
+
+ chromium:0 "Pre-War Tech"
+ chromium_desc:0 "Working circuit boards, vacuum tubes, and intact wiring dug out of Beautopia, Founders' Island, and the Ooo Junkyard. Most folks have no idea how the ancients built this stuff, but you can't run a radar tower or a Gumball Guardian without it."
+
+ tungsten:0 "Crystals"
+ tungsten_desc:0 "Dense, humming gem clusters quarried out of Mount Cragdor and the eastern crystal rifts. They're hard enough to punch through tank armor and hold enough ambient magic to focus laser cannons and sonic artillery."
+
+ aluminium:0 "MO Alloys"
+ aluminium_desc:0 "Feather-light stamped sheet metal originally cooked up by Moe at the MO Co. factory in the Badlands. It bends without snapping and never rusts, making it the gold standard for biplane wings, ultra-trams, and robot casings."
+
+ oil:0 "Biodiesel"
+ oil_desc:0 "A smelly, high-octane brew of fermented apple-ethanol, southern sea crude, and used deep-fryer grease from the Breakfast Kingdom. Keep it away from open flames unless it's already inside a tank engine."
+
+coal:0 "Coal"
+ coal_desc:0 "High-grade anthracite, volcanic charcoal from the Fire Kingdom, and compacted peat dug out of Ooo's deep quarries. Burned in factory boilers and steam turbines to generate the electrical power needed to keep assembly lines running."
+
+ # Trade Window Tooltips
+ PRODUCTION_RESOURCE_SHORTAGE:0 "Lack of $RESOURCE|H$ causes production penalties."
+ TRADE_RESOURCE_INFO:0 "$NAME|H$\n$DESC$"

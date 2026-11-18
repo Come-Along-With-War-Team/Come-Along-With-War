@@ -1,0 +1,25 @@
+state = {
+	id = 1013
+	name = "STATE_1013"
+	manpower = 378714
+
+	state_category = large_town
+	#impassable = yes
+
+	resources = {
+		aluminium = 0
+		chromium = 0
+		oil = 0
+		rubber = 0
+		steel = 0
+		tungsten = 0
+	}
+
+	history = {
+		owner = WLD
+		add_core_of = WLD
+	}
+
+	provinces = { 8811 8812 8813 8814 8815 8816 8817 8818 }
+	local_supplies = 0.0
+}

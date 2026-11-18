@@ -1,0 +1,25 @@
+state = {
+	id = 43
+	name = "STATE_43"
+	manpower = 293727
+
+	state_category = town
+	#impassable = yes
+
+	resources = {
+		aluminium = 1
+		chromium = 1
+		oil = 0
+		rubber = 14
+		steel = 0
+		tungsten = 1
+	}
+
+	history = {
+		owner = WLD
+		add_core_of = WLD
+	}
+
+	provinces = { 562 563 564 565 566 567 568 569 570 }
+	local_supplies = 0.0
+}

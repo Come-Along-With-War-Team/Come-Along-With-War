@@ -1,0 +1,21 @@
+spriteTypes = {
+    spriteType = {
+        name = "GFX_idea_CND_the_monitor_room"
+        texturefile = "gfx/interface/ideas/CND/CND_the_monitor_room.dds"
+    }
+
+    spriteType = {
+        name = "GFX_idea_CND_a_house_divided"
+        texturefile = "gfx/interface/ideas/CND/CND_a_house_divided.dds"
+    }
+
+    spriteType = {
+        name = "GFX_idea_CND_thin_yellow_line"
+        texturefile = "gfx/interface/ideas/CND/CND_thin_yellow_line.dds"
+    }
+
+    spriteType = {
+        name = "GFX_idea_CND_sugar_and_circuses"
+        texturefile = "gfx/interface/ideas/CND/CND_sugar_and_circuses.dds"
+    }
+}

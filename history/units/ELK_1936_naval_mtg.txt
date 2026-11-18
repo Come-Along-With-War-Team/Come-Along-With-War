@@ -1,0 +1,46 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Elkapenasuna Fleet"			
+		naval_base = 8909
+		task_force = {
+			name = "Elkapenasuna Fleet"
+			location = 8909
+			
+						ship = { name = "Haia" definition = heavy_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ELK version_name = "Ahar Class" } }	}
+			ship = { name = "Abesti" definition = heavy_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ELK version_name = "Lagurua Class" } }	}
+			ship = { name = "Herrakarrebe" definition = heavy_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ELK version_name = "Lagurua Class" } }	}
+			ship = { name = "Badia" definition = heavy_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ELK version_name = "Ahar Class" } }	}
+			ship = { name = "Burri" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = ELK version_name = "Lagurua Class" } }	}
+			ship = { name = "Herrakarrebe 2" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ELK version_name = "Elkara Class" } }	}
+			ship = { name = "Ahal" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = ELK version_name = "Aberi Class" } }	}
+			ship = { name = "Hitza" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = ELK version_name = "Lagurua Class" } }	}
+			ship = { name = "Hautza" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ELK version_name = "Harri Class" } }	}
+			ship = { name = "Aizen" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ELK version_name = "Elkara Class" } }	}
+			ship = { name = "Abesti 2" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ELK version_name = "Elkara Class" } }	}
+			ship = { name = "Herrakarrebe 3" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = ELK version_name = "Lagurua Class" } }	}
+			ship = { name = "Bidean" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = ELK version_name = "Aberi Class" } }	}
+			ship = { name = "Badea" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = ELK version_name = "Lagurua Class" } }	}
+			ship = { name = "Gogoa" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ELK version_name = "Elkara Class" } }	}
+			ship = { name = "Badea 2" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = ELK version_name = "Lagurua Class" } }	}
+			ship = { name = "Hota" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ELK version_name = "Elkara Class" } }	}
+			ship = { name = "Ikusmoa" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ELK version_name = "Harri Class" } }	}
+			ship = { name = "Haia 2" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ELK version_name = "Elkara Class" } }	}
+			ship = { name = "Uran" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ELK version_name = "Harri Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

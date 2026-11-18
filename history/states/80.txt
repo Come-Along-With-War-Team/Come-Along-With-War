@@ -1,0 +1,26 @@
+state = {
+	id = 80
+	name = "STATE_80"
+	manpower = 128725
+
+	state_category = pastoral
+	#impassable = yes
+
+
+	resources = {
+		aluminium = 0
+		chromium = 0
+		oil = 0
+		rubber = 0
+		steel = 0
+		tungsten = 0
+	}
+
+	history = {
+		owner = BND
+		add_core_of = BND
+	}
+
+	provinces = { 952 953 954 955 956 957 958 959 960 961 9440 9442 }
+	local_supplies = 0.0
+}

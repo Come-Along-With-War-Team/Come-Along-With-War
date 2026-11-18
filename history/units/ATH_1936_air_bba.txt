@@ -1,0 +1,18 @@
+air_wings = {
+		376 = { 								
+		medium_plane_airframe_1 = { owner = "ATH" amount = 6 version_name = "Radh Mk 0" }
+
+	}
+	457 = { 								
+		small_plane_cas_airframe_0 = { owner = "ATH" amount = 3 version_name = "Faoch Mk 0" }
+medium_plane_airframe_0 = { owner = "ATH" amount = 3 version_name = "Grimh Mk 1" }
+
+	}
+	283 = { 								
+		small_plane_airframe_0 = { owner = "ATH" amount = 4 version_name = "Doras Mk 1" }
+small_plane_naval_bomber_airframe_0 = { owner = "ATH" amount = 2 version_name = "Banbh Mk 1" }
+
+	}
+
+
+}

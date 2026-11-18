@@ -1,0 +1,16 @@
+characters = {
+    NUT_duke_of_nuts = {
+        name = "Duke of Nuts"
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/NUT/Duke_of_Nuts.dds"
+            }
+        }
+        country_leader = {
+            ideology = ducal_feudalism
+            traits = { dictator }
+            expire = "1965.1.1"
+            id = -1
+        }
+    }
+}

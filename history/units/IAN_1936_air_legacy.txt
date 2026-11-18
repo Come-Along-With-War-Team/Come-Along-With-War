@@ -1,0 +1,29 @@
+air_wings = {
+		161 = { 								
+		fighter_equipment_0 = { owner = "IAN" amount = 24 version_name = "Ituliya Mk 1" }
+
+	}
+	113 = { 								
+		CAS_equipment_0 = { owner = "IAN" amount = 28 version_name = "Nakuimaq Mk 2" }
+
+	}
+	632 = { 								
+		cv_nav_bomber_equipment_0 = { owner = "IAN" amount = 33 version_name = "Tunanaanuvan Mk 2" }
+
+	}
+	566 = { 								
+		cv_fighter_equipment_0 = { owner = "IAN" amount = 23 version_name = "Tineq Mk 0" }
+
+	}
+	420 = { 								
+		nav_bomber_equipment_0 = { owner = "IAN" amount = 25 version_name = "Tulok Mk 1" }
+tac_bomber_equipment_0 = { owner = "IAN" amount = 24 version_name = "Tattak Mk 0" }
+
+	}
+	166 = { 								
+		cv_CAS_equipment_0 = { owner = "IAN" amount = 33 version_name = "Kugaannu Mk 2" }
+
+	}
+
+
+}

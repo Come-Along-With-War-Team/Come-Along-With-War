@@ -1,0 +1,15 @@
+state = {
+    id = 902
+    name = "STATE_902"
+    manpower = 10000
+    state_category = wasteland
+
+    history = {
+        owner = WBY
+        add_core_of = WBY
+    }
+
+    provinces = { 5065 5067 5069 5071 5074 5075 5078 5080 5082 5083 5084 5085 }
+
+    local_supplies = 0
+}

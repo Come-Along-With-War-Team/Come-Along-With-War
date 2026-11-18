@@ -1,0 +1,16 @@
+characters = {
+    VRT_starchy = {
+        name = "Starchy"
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/VRT/Starchy.dds"
+            }
+        }
+        country_leader = {
+            ideology = starchism
+            traits = { dictator }
+            expire = "1965.1.1"
+            id = -1
+        }
+    }
+}

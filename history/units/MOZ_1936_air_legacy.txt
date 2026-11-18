@@ -1,0 +1,16 @@
+air_wings = {
+		866 = { 								
+		fighter_equipment_0 = { owner = "MOZ" amount = 25 version_name = "Urchi Mk 0" }
+
+	}
+	404 = { 								
+		CAS_equipment_0 = { owner = "MOZ" amount = 20 version_name = "Vadu Mk 1" }
+
+	}
+	18 = { 								
+		nav_bomber_equipment_0 = { owner = "MOZ" amount = 20 version_name = "Vizhchar Mk 1" }
+
+	}
+
+
+}

@@ -1,0 +1,60 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Vinadal Fleet"			
+		naval_base = 8930
+		task_force = {
+			name = "Vinadal Fleet"
+			location = 8930
+			
+						ship = { name = "Idal" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = VWN version_name = "Mozi Class" } }	}
+			ship = { name = "Nooli" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = VWN version_name = "Nooli Class" } }	}
+			ship = { name = "Nooli 2" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = VWN version_name = "Karani Class" } }	}
+			ship = { name = "Idal 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = VWN version_name = "Katcha Class" } }	}
+			ship = { name = "Puyal" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = VWN version_name = "Katcha Class" } }	}
+			ship = { name = "Muravai" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = VWN version_name = "Pagizhilanai Class" } }	}
+			ship = { name = "Thunai" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = VWN version_name = "Pagizhilanai Class" } }	}
+			ship = { name = "Vizha" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = VWN version_name = "Katcha Class" } }	}
+			ship = { name = "Karul" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VWN version_name = "Inbu Class" } }	}
+			ship = { name = "Panippu" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = VWN version_name = "Katcha Class" } }	}
+			ship = { name = "Kani" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VWN version_name = "Inbu Class" } }	}
+			ship = { name = "Kaattu" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = VWN version_name = "Pagizhilanai Class" } }	}
+			ship = { name = "Aasirippu" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = VWN version_name = "Katcha Class" } }	}
+			ship = { name = "Pagizhilanai" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VWN version_name = "Inbu Class" } }	}
+			ship = { name = "Then" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = VWN version_name = "Katcha Class" } }	}
+			ship = { name = "Kadam" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = VWN version_name = "Pagizhilanai Class" } }	}
+			ship = { name = "Thudhamizhin" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = VWN version_name = "Katcha Class" } }	}
+			ship = { name = "Magam" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VWN version_name = "Inbu Class" } }	}
+			ship = { name = "Mozi" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = VWN version_name = "Katcha Class" } }	}
+			ship = { name = "Porunai" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = VWN version_name = "Karani Class" } }	}
+			ship = { name = "Mozi 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = VWN version_name = "Pagizhilanai Class" } }	}
+			ship = { name = "Mozi 3" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = VWN version_name = "Katcha Class" } }	}
+			ship = { name = "Inbu" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = VWN version_name = "Karani Class" } }	}
+			ship = { name = "Nunbam" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = VWN version_name = "Pagizhilanai Class" } }	}
+			ship = { name = "Mozhumai" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = VWN version_name = "Karani Class" } }	}
+			ship = { name = "Kavu" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VWN version_name = "Inbu Class" } }	}
+			ship = { name = "Natrunam" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = VWN version_name = "Karani Class" } }	}
+			ship = { name = "Pagizhilanai 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = VWN version_name = "Pagizhilanai Class" } }	}
+			ship = { name = "Vadambu" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = VWN version_name = "Karani Class" } }	}
+			ship = { name = "Thudhamizhin 2" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = VWN version_name = "Karani Class" } }	}
+			ship = { name = "Inbu 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = VWN version_name = "Pagizhilanai Class" } }	}
+			ship = { name = "Kavu 2" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = VWN version_name = "Karani Class" } }	}
+			ship = { name = "Nooli 3" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = VWN version_name = "Katcha Class" } }	}
+			ship = { name = "Inbu 3" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VWN version_name = "Inbu Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

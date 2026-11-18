@@ -1,0 +1,15 @@
+state = {
+    id = 910
+    name = "STATE_910"
+    manpower = 10000
+    state_category = wasteland
+
+    history = {
+        owner = MOC
+        add_core_of = MOC
+    }
+
+    provinces = { 9 21 674 684 686 698 707 709 710 6461 6465 6785 6796 6802 6805 }
+
+    local_supplies = 0
+}

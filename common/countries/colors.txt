@@ -1,0 +1,221 @@
+#reload countrycolors
+
+
+CND = {
+	color = rgb { 235 130 180 }
+	color_ui = rgb { 245 150 195 }
+}
+
+GMB = {
+	color = rgb { 100 3 155 }
+	color_ui = rgb { 225 80 210 }
+}
+
+VRT = {
+	color = rgb { 215 70 70 }
+	color_ui = rgb { 230 90 90 }
+}
+
+LEM = {
+	color = rgb { 190 195 55 }
+	color_ui = rgb { 210 220 75 }
+}
+
+NUT = {
+	color = rgb { 220 145 5 }
+	color_ui = rgb { 240 165 25 }
+}
+
+ICE = {
+	color = rgb { 195 255 255 }
+	color_ui = rgb { 215 255 255 }
+}
+
+SLM = {
+	color = rgb { 145 205 55 }
+	color_ui = rgb { 165 225 75 }
+}
+
+FIR = {
+	color = rgb { 160 55 25 }
+	color_ui = rgb { 180 75 45 }
+}
+BRK = {
+	color = rgb { 215 155 55 }
+	color_ui = rgb { 215 155 55 }
+}
+
+MRD = {
+	color = rgb { 135 85 60 }
+	color_ui = rgb { 135 85 60 }
+}
+
+MTH = {
+	color = rgb { 90 70 110 }
+	color_ui = rgb { 90 70 110 }
+}
+
+BOX = {
+	color = rgb { 195 160 115 }
+	color_ui = rgb { 195 160 115 }
+}
+
+GOB = {
+	color = rgb { 85 135 75 }
+	color_ui = rgb { 85 135 75 }
+}
+
+NWB = {
+	color = rgb { 145 95 75 }
+	color_ui = rgb { 145 95 75 }
+}
+
+WOB = {
+	color = rgb { 95 135 120 }
+	color_ui = rgb { 95 135 120 }
+}
+
+MOC = {
+	color = rgb { 85 155 150 }
+	color_ui = rgb { 85 155 150 }
+}
+
+BND = {
+	color = rgb { 125 65 65 }
+	color_ui = rgb { 125 65 65 }
+}
+
+CRB = {
+	color = rgb { 235 110 95 }
+	color_ui = rgb { 235 110 95 }
+}
+
+LIB = {
+	color = rgb { 155 175 135 }
+	color_ui = rgb { 155 175 135 }
+}
+
+SPK = {
+	color = rgb { 185 135 80 }
+	color_ui = rgb { 185 135 80 }
+}
+
+BTP = {
+	color = rgb { 65 130 155 }
+	color_ui = rgb { 65 130 155 }
+}
+
+TMK = {
+	color = rgb { 190 150 120 }
+	color_ui = rgb { 190 150 120 }
+}
+
+WBY = {
+	color = rgb { 170 60 115 }
+	color_ui = rgb { 170 60 115 }
+}
+
+GLS = {
+	color = rgb { 175 230 235 }
+	color_ui = rgb { 175 230 235 }
+}
+
+WZC = {
+	color = rgb { 80 75 165 }
+	color_ui = rgb { 80 75 165 }
+}
+
+GRD = {
+	color = rgb { 115 130 140 }
+	color_ui = rgb { 115 130 140 }
+}
+
+HUG = {
+	color = rgb { 140 125 105 }
+	color_ui = rgb { 140 125 105 }
+}
+
+CRY = {
+	color = rgb { 235 145 215 }
+	color_ui = rgb { 235 145 215 }
+}
+
+FND = {
+	color = rgb { 215 225 235 }
+	color_ui = rgb { 215 225 235 }
+}
+
+RAG = {
+	color = rgb { 195 115 105 }
+	color_ui = rgb { 195 115 105 }
+}
+
+LZD = {
+	color = rgb { 70 165 95 }
+	color_ui = rgb { 70 165 95 }
+}
+
+FRK = {
+	color = rgb { 210 180 65 }
+	color_ui = rgb { 210 180 65 }
+}
+
+MSC = {
+	color = rgb { 180 85 70 }
+	color_ui = rgb { 180 85 70 }
+}
+
+HSE = {
+	color = rgb { 105 140 185 }
+	color_ui = rgb { 105 140 185 }
+}
+
+HDK = {
+	color = rgb { 195 75 55 }
+	color_ui = rgb { 195 75 55 }
+}
+
+CHS = {
+	color = rgb { 240 205 95 }
+	color_ui = rgb { 240 205 95 }
+}
+
+GRC = {
+	color = rgb { 90 175 130 }
+	color_ui = rgb { 90 175 130 }
+}
+
+OLD = {
+	color = rgb { 110 115 125 }
+	color_ui = rgb { 110 115 125 }
+}
+
+MSH = {
+	color = rgb { 215 110 85 }
+	color_ui = rgb { 215 110 85 }
+}
+
+BTH = {
+	color = rgb { 85 155 125 }
+	color_ui = rgb { 85 155 125 }
+}
+
+HRT = {
+	color = rgb { 45 105 60 }
+	color_ui = rgb { 45 105 60 }
+}
+
+SFT = {
+	color = rgb { 225 180 195 }
+	color_ui = rgb { 225 180 195 }
+}
+
+CLD = {
+	color = rgb { 205 220 250 }
+	color_ui = rgb { 205 220 250 }
+}
+
+WLD = {
+	color = rgb { 95 110 95 }
+	color_ui = rgb { 115 130 115 }
+}

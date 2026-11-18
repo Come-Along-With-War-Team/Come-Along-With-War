@@ -1,0 +1,33 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Thuraividi Fleet"			
+		naval_base = 8409
+		task_force = {
+			name = "Thuraividi Fleet"
+			location = 8409
+			
+						ship = { name = "Veedu" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = TIU version_name = "Vadilam Class" } }	}
+			ship = { name = "Kudranam" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = TIU version_name = "Vizhchar Class" } }	}
+			ship = { name = "Veedu 2" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = TIU version_name = "Pagam Class" } }	}
+			ship = { name = "Pagam" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = TIU version_name = "Vadilam Class" } }	}
+			ship = { name = "Kolam" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = TIU version_name = "Vadilam Class" } }	}
+			ship = { name = "Thunam" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = TIU version_name = "Veedu Class" } }	}
+			ship = { name = "Panam" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = TIU version_name = "Pagam Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

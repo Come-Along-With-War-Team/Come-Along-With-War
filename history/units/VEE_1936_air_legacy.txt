@@ -1,0 +1,16 @@
+air_wings = {
+		908 = { 								
+		CAS_equipment_0 = { owner = "VEE" amount = 22 version_name = "Veli Mk 2" }
+
+	}
+	981 = { 								
+		fighter_equipment_0 = { owner = "VEE" amount = 24 version_name = "Vadambu Mk 1" }
+
+	}
+	902 = { 								
+		tac_bomber_equipment_0 = { owner = "VEE" amount = 20 version_name = "Kani Mk 2" }
+
+	}
+
+
+}

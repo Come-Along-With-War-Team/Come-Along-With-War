@@ -1,0 +1,28 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Dean Fleet"			
+		naval_base = 4923
+		task_force = {
+			name = "Dean Fleet"
+			location = 4923
+			
+						ship = { name = "Huang" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = DEA version_name = "Chan Class" } }	}
+			ship = { name = "Chui" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = DEA version_name = "Chan Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

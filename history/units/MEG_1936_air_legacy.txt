@@ -1,0 +1,21 @@
+air_wings = {
+		1009 = { 								
+		tac_bomber_equipment_0 = { owner = "MEG" amount = 14 version_name = "Yolda Mk 2" }
+
+	}
+	801 = { 								
+		nav_bomber_equipment_0 = { owner = "MEG" amount = 9 version_name = "Kana Mk 0" }
+
+	}
+	1057 = { 								
+		CAS_equipment_0 = { owner = "MEG" amount = 10 version_name = "Tari Mk 2" }
+fighter_equipment_0 = { owner = "MEG" amount = 15 version_name = "Bahtari Mk 0" }
+
+	}
+	1001 = { 								
+		tac_bomber_equipment_0 = { owner = "MEG" amount = 10 version_name = "Pazarimdir Mk 0" }
+
+	}
+
+
+}

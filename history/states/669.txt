@@ -1,0 +1,25 @@
+state = {
+	id = 669
+	name = "STATE_669"
+	manpower = 93537
+
+	state_category = rural
+	#impassable = yes
+
+	resources = {
+		aluminium = 2
+		chromium = 3
+		oil = 0
+		rubber = 2
+		steel = 0
+		tungsten = 2
+	}
+
+	history = {
+		owner = WLD
+		add_core_of = WLD
+	}
+
+	provinces = { 6473 6474 }
+	local_supplies = 0.0
+}

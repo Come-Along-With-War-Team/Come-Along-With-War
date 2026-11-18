@@ -1,0 +1,49 @@
+air_wings = {
+		343 = { 								
+		fighter_equipment_0 = { owner = "BOI" amount = 50 version_name = "Azrart Mk 0" }
+
+	}
+	13 = { 								
+		tac_bomber_equipment_0 = { owner = "BOI" amount = 50 version_name = "Takwint Mk 2" }
+
+	}
+	625 = { 								
+		nav_bomber_equipment_0 = { owner = "BOI" amount = 50 version_name = "Tatri Mk 2" }
+
+	}
+	593 = { 								
+		tac_bomber_equipment_0 = { owner = "BOI" amount = 50 version_name = "Amenzurt Mk 2" }
+
+	}
+	406 = { 								
+		strat_bomber_equipment_0 = { owner = "BOI" amount = 50 version_name = "Tazra Mk 1" }
+
+	}
+	620 = { 								
+		tac_bomber_equipment_0 = { owner = "BOI" amount = 50 version_name = "Amenzurt Mk 2" }
+CAS_equipment_0 = { owner = "BOI" amount = 50 version_name = "Tamsiri Mk 1" }
+
+	}
+	25 = { 								
+		nav_bomber_equipment_0 = { owner = "BOI" amount = 50 version_name = "Tatri Mk 2" }
+
+	}
+	258 = { 								
+		strat_bomber_equipment_0 = { owner = "BOI" amount = 50 version_name = "Tazra Mk 1" }
+
+	}
+	437 = { 								
+		tac_bomber_equipment_0 = { owner = "BOI" amount = 50 version_name = "Takwint Mk 2" }
+
+	}
+	760 = { 								
+		CAS_equipment_0 = { owner = "BOI" amount = 50 version_name = "Tamsiri Mk 1" }
+
+	}
+	469 = { 								
+		fighter_equipment_0 = { owner = "BOI" amount = 50 version_name = "Azrart Mk 0" }
+
+	}
+
+
+}

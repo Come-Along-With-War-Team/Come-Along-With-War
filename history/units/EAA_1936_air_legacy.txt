@@ -1,0 +1,13 @@
+air_wings = {
+		481 = { 								
+		CAS_equipment_0 = { owner = "EAA" amount = 15 version_name = "Udakkam Mk 1" }
+fighter_equipment_0 = { owner = "EAA" amount = 18 version_name = "Vanbam Mk 1" }
+
+	}
+	67 = { 								
+		nav_bomber_equipment_0 = { owner = "EAA" amount = 11 version_name = "Vadilam Mk 0" }
+
+	}
+
+
+}

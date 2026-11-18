@@ -1,0 +1,64 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Kaam Fleet"			
+		naval_base = 8927
+		task_force = {
+			name = "Kaam Fleet"
+			location = 8927
+			
+						ship = { name = "Manippu" definition = battleship equipment = { ship_hull_heavy_2 = { amount = 1 owner = KAA version_name = "Tham Class" } }	}
+			ship = { name = "Urchila" definition = heavy_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = KAA version_name = "Karul Class" } }	}
+			ship = { name = "Vilai" definition = heavy_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = KAA version_name = "Kani Class" } }	}
+			ship = { name = "Puthi" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = KAA version_name = "Thudhamizhin Class" } }	}
+			ship = { name = "Then" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = KAA version_name = "Thulal Class" } }	}
+			ship = { name = "Katturuli" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = KAA version_name = "Thudhamizhin Class" } }	}
+			ship = { name = "Idal" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = KAA version_name = "Udan Class" } }	}
+			ship = { name = "Kuli" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = KAA version_name = "Thudhamizhin Class" } }	}
+			ship = { name = "Kizhinam" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = KAA version_name = "Thulal Class" } }	}
+			ship = { name = "Nilai" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = KAA version_name = "Udan Class" } }	}
+			ship = { name = "Then 2" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = KAA version_name = "Udan Class" } }	}
+			ship = { name = "Thulal" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = KAA version_name = "Thulal Class" } }	}
+			ship = { name = "Velam" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = KAA version_name = "Thulal Class" } }	}
+			ship = { name = "Velam 2" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = KAA version_name = "Thulal Class" } }	}
+			ship = { name = "Panippu" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = KAA version_name = "Thulal Class" } }	}
+			ship = { name = "Nadappu" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = KAA version_name = "Thulal Class" } }	}
+			ship = { name = "Thulal 2" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = KAA version_name = "Udan Class" } }	}
+			ship = { name = "Vizha" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = KAA version_name = "Thulal Class" } }	}
+			ship = { name = "Vilam" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = KAA version_name = "Thudhamizhin Class" } }	}
+			ship = { name = "Porunai" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = KAA version_name = "Thulal Class" } }	}
+			ship = { name = "Puyal" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = KAA version_name = "Thulal Class" } }	}
+			ship = { name = "Kavu" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = KAA version_name = "Thulal Class" } }	}
+			ship = { name = "Aasirippu" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = KAA version_name = "Thudhamizhin Class" } }	}
+			ship = { name = "Kanneerannol" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = KAA version_name = "Thulal Class" } }	}
+			ship = { name = "Thudhamizhin" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = KAA version_name = "Thudhamizhin Class" } }	}
+			ship = { name = "Veli" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = KAA version_name = "Udan Class" } }	}
+			ship = { name = "Thulal 3" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = KAA version_name = "Thulal Class" } }	}
+			ship = { name = "Theeranamudr" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = KAA version_name = "Thulal Class" } }	}
+			ship = { name = "Manippu 2" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = KAA version_name = "Thulal Class" } }	}
+			ship = { name = "Aasirippu 2" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = KAA version_name = "Thudhamizhin Class" } }	}
+			ship = { name = "Udanthai" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = KAA version_name = "Thudhamizhin Class" } }	}
+			ship = { name = "Sugavaikku" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = KAA version_name = "Udan Class" } }	}
+			ship = { name = "Kani" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = KAA version_name = "Udan Class" } }	}
+			ship = { name = "Vilai 2" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = KAA version_name = "Udan Class" } }	}
+			ship = { name = "Urchila 2" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = KAA version_name = "Thulal Class" } }	}
+			ship = { name = "Karul" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = KAA version_name = "Thulal Class" } }	}
+			ship = { name = "Vilai 3" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = KAA version_name = "Udan Class" } }	}
+			ship = { name = "Natrunam" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = KAA version_name = "Udan Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

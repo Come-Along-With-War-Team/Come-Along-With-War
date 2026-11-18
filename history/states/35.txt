@@ -1,0 +1,26 @@
+state = {
+	id = 35
+	name = "STATE_35"
+	manpower = 590708
+
+	state_category = metropolis
+	#impassable = yes
+
+
+	resources = {
+		aluminium = 0
+		chromium = 0
+		oil = 0
+		rubber = 0
+		steel = 0
+		tungsten = 0
+	}
+
+	history = {
+		owner = CND
+		add_core_of = CND
+	}
+
+	provinces = { 452 453 454 456 457 459 460 461 }
+	local_supplies = 0.0
+}

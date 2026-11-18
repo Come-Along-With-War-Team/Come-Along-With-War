@@ -1,0 +1,40 @@
+air_wings = {
+		118 = { 								
+		CAS_equipment_0 = { owner = "NAD" amount = 50 version_name = "Mozhinal Mk 0" }
+
+	}
+	467 = { 								
+		fighter_equipment_0 = { owner = "NAD" amount = 50 version_name = "Pesu Mk 0" }
+
+	}
+	764 = { 								
+		CAS_equipment_0 = { owner = "NAD" amount = 50 version_name = "Mozhinal Mk 0" }
+
+	}
+	242 = { 								
+		nav_bomber_equipment_0 = { owner = "NAD" amount = 49 version_name = "Pagam Mk 2" }
+
+	}
+	425 = { 								
+		nav_bomber_equipment_0 = { owner = "NAD" amount = 50 version_name = "Thaal Mk 1" }
+
+	}
+	871 = { 								
+		tac_bomber_equipment_0 = { owner = "NAD" amount = 48 version_name = "Uyiravu Mk 0" }
+
+	}
+	897 = { 								
+		CAS_equipment_0 = { owner = "NAD" amount = 43 version_name = "Panam Mk 1" }
+
+	}
+	157 = { 								
+		fighter_equipment_0 = { owner = "NAD" amount = 50 version_name = "Noolaiyal Mk 0" }
+
+	}
+	364 = { 								
+		nav_bomber_equipment_0 = { owner = "NAD" amount = 50 version_name = "Thaal Mk 1" }
+
+	}
+
+
+}

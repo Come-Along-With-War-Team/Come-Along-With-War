@@ -1,0 +1,26 @@
+state = {
+	id = 701
+	name = "STATE_701"
+	manpower = 789321
+
+	state_category = metropolis
+	#impassable = yes
+
+
+	resources = {
+		aluminium = 0
+		chromium = 0
+		oil = 0
+		rubber = 0
+		steel = 0
+		tungsten = 0
+	}
+
+	history = {
+		owner = NUT
+		add_core_of = NUT
+	}
+
+	provinces = { 6684 6688 6700 6701 6704 }
+	local_supplies = 0.0
+}

@@ -1,0 +1,26 @@
+state = {
+	id = 195
+	name = "STATE_195"
+	manpower = 230321
+
+	state_category = town
+	#impassable = yes
+
+
+	resources = {
+		aluminium = 0
+		chromium = 0
+		oil = 0
+		rubber = 0
+		steel = 0
+		tungsten = 0
+	}
+
+	history = {
+		owner = GRC
+		add_core_of = GRC
+	}
+
+	provinces = { 2192 2194 2195 3715 3716 }
+	local_supplies = 0.0
+}

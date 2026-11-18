@@ -1,0 +1,28 @@
+state = {
+	id = 242
+	name = "STATE_242"
+	manpower = 1108150
+
+	state_category = megalopolis
+	#impassable = yes
+
+	resources = {
+		aluminium = 11
+		chromium = 12
+		oil = 4
+		rubber = 0
+		steel = 0
+		tungsten = 11
+	}
+
+	history = {
+		owner = WLD
+		add_core_of = WLD
+	}
+
+	provinces = {
+		2722 2723 2724 2725 2726 2727 2728 2729 2730 2731 2732 2733 2734 2735 2736 2737 2738 2739 2740 2741 2742 2743
+		2744
+	}
+	local_supplies = 0.0
+}

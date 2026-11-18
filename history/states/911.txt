@@ -1,0 +1,15 @@
+state = {
+    id = 911
+    name = "STATE_911"
+    manpower = 10000
+    state_category = wasteland
+
+    history = {
+        owner = WLD
+        add_core_of = WLD
+    }
+
+    provinces = { 2443 2444 4043 6146 6155 6928 }
+
+    local_supplies = 0
+}

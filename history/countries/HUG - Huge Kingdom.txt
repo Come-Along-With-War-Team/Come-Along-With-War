@@ -1,0 +1,21 @@
+capital = 41 # Replace with your Huge Kingdom capital state ID
+
+
+set_research_slots = 2
+set_stability = 0.55
+set_war_support = 0.60
+
+set_politics = {
+    ruling_party = traditionalism
+    last_election = "1000.1.1"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+    rationalism = 10
+    supremacist = 25
+    collectivism = 5
+    traditionalism = 60
+    annihilation = 0
+}

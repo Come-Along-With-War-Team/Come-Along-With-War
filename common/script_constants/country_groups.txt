@@ -1,0 +1,1 @@
+# Override vanilla country_groups.txt so vanilla tags (SWE, GER, CHI, etc.) do not error.

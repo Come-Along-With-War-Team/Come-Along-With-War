@@ -1,0 +1,26 @@
+state = {
+	id = 517
+	name = "STATE_517"
+	manpower = 159426
+
+	state_category = pastoral
+	#impassable = yes
+
+
+	resources = {
+		aluminium = 0
+		chromium = 0
+		oil = 0
+		rubber = 0
+		steel = 0
+		tungsten = 0
+	}
+
+	history = {
+		owner = LZD
+		add_core_of = LZD
+	}
+
+	provinces = { 5099 5100 5101 5102 5105 5107 5109 5110 }
+	local_supplies = 0.0
+}

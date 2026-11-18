@@ -1,0 +1,31 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Kudhai Fleet"			
+		naval_base = 6930
+		task_force = {
+			name = "Kudhai Fleet"
+			location = 6930
+			
+						ship = { name = "Aranneer" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KUD version_name = "Mozhinal Class" } }	}
+			ship = { name = "Pangu" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KUD version_name = "Kanam Class" } }	}
+			ship = { name = "Mozi" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KUD version_name = "Kanam Class" } }	}
+			ship = { name = "Pangu 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KUD version_name = "Mozhinal Class" } }	}
+			ship = { name = "Kuthanneer" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KUD version_name = "Kanam Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

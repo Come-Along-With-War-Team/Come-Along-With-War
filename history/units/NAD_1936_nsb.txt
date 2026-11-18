@@ -1,0 +1,174 @@
+division_template = {
+	name = "Militia Division"
+
+	regiments = {
+			infantry = {  x = 0 y = 0 }
+			infantry = {  x = 0 y = 1 }
+			infantry = {  x = 0 y = 2 }
+			infantry = {  x = 1 y = 0 }
+			infantry = {  x = 1 y = 1 }
+
+	}
+	
+	support = {
+
+	}
+}
+division_template = {
+	name = "Infantry Division"
+
+	regiments = {
+			infantry = {  x = 0 y = 0 }
+			infantry = {  x = 0 y = 1 }
+			infantry = {  x = 1 y = 0 }
+			infantry = {  x = 2 y = 0 }
+
+	}
+	
+	support = {
+
+	}
+}
+division_template = {
+	name = "Supported Infantry Division"
+
+	regiments = {
+			infantry = {  x = 0 y = 0 }
+			infantry = {  x = 0 y = 1 }
+			infantry = {  x = 1 y = 0 }
+			infantry = {  x = 1 y = 1 }
+			infantry = {  x = 2 y = 0 }
+			infantry = {  x = 2 y = 1 }
+
+	}
+	
+	support = {
+			recon = {  x = 0 y = 0 }
+
+	}
+}
+division_template = {
+	name = "Cavalry Division"
+
+	regiments = {
+			cavalry = {  x = 0 y = 0 }
+			cavalry = {  x = 0 y = 1 }
+			cavalry = {  x = 0 y = 2 }
+			cavalry = {  x = 0 y = 3 }
+			cavalry = {  x = 1 y = 0 }
+			cavalry = {  x = 1 y = 1 }
+			cavalry = {  x = 1 y = 2 }
+			cavalry = {  x = 1 y = 3 }
+			cavalry = {  x = 2 y = 0 }
+			cavalry = {  x = 2 y = 1 }
+			cavalry = {  x = 2 y = 2 }
+
+	}
+	
+	support = {
+
+	}
+}
+
+
+units = {
+	division= {
+		name = "1st 'Vidu' Supported Infantry Division"
+		location = 2729
+		division_template = "Supported Infantry Division"
+		start_experience_factor = 0.131233
+		start_equipment_factor = 0.982757
+	}
+	division= {
+		name = "2nd 'Iraignai' Supported Infantry Division"
+		location = 8036
+		division_template = "Supported Infantry Division"
+		start_experience_factor = 0.560799
+		start_equipment_factor = 0.886107
+	}
+	division= {
+		name = "3rd 'Nadhuru' Supported Infantry Division"
+		location = 7196
+		division_template = "Supported Infantry Division"
+		start_experience_factor = 0.548139
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "4th 'Nakkiriyalam' Supported Infantry Division"
+		location = 7193
+		division_template = "Supported Infantry Division"
+		start_experience_factor = 0.551752
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "5th 'Pagam' Supported Infantry Division"
+		location = 6570
+		division_template = "Supported Infantry Division"
+		start_experience_factor = 0.167820
+		start_equipment_factor = 0.998141
+	}
+	division= {
+		name = "6th 'Vizhchi' Supported Infantry Division"
+		location = 5196
+		division_template = "Supported Infantry Division"
+		start_experience_factor = 0.278434
+		start_equipment_factor = 0.911833
+	}
+	division= {
+		name = "7th 'Velam' Supported Infantry Division"
+		location = 7973
+		division_template = "Supported Infantry Division"
+		start_experience_factor = 0.691000
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "8th 'Vidu' Supported Infantry Division"
+		location = 2792
+		division_template = "Supported Infantry Division"
+		start_experience_factor = 0.308379
+		start_equipment_factor = 0.937504
+	}
+	division= {
+		name = "9th 'Thai' Supported Infantry Division"
+		location = 663
+		division_template = "Supported Infantry Division"
+		start_experience_factor = 0.920597
+		start_equipment_factor = 0.942205
+	}
+	division= {
+		name = "10th 'Thai' Supported Infantry Division"
+		location = 658
+		division_template = "Supported Infantry Division"
+		start_experience_factor = 0.349027
+		start_equipment_factor = 0.993191
+	}
+	division= {
+		name = "11th 'Kalai' Supported Infantry Division"
+		location = 7273
+		division_template = "Supported Infantry Division"
+		start_experience_factor = 0.731327
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "12th 'Kaattu' Supported Infantry Division"
+		location = 8026
+		division_template = "Supported Infantry Division"
+		start_experience_factor = 0.504420
+		start_equipment_factor = 0.890600
+	}
+	division= {
+		name = "13th 'Velimai' Supported Infantry Division"
+		location = 4851
+		division_template = "Supported Infantry Division"
+		start_experience_factor = 0.301843
+		start_equipment_factor = 1.000000
+	}
+	division= {
+		name = "14th 'Iraignai' Supported Infantry Division"
+		location = 7276
+		division_template = "Supported Infantry Division"
+		start_experience_factor = 0.660281
+		start_equipment_factor = 0.973537
+	}
+
+}

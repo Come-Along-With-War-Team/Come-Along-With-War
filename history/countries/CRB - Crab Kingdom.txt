@@ -1,0 +1,21 @@
+capital = 972 # Replace with your Crab Kingdom capital state ID
+
+
+set_research_slots = 2
+set_stability = 0.65
+set_war_support = 0.35
+
+set_politics = {
+    ruling_party = traditionalism
+    last_election = "1000.1.1"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+    rationalism = 15
+    supremacist = 15
+    collectivism = 10
+    traditionalism = 60
+    annihilation = 0
+}

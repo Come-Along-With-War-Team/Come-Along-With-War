@@ -1,0 +1,10 @@
+spriteTypes = {
+    spriteType = {
+        name = "GFX_ideology_rationalism_group"
+        texturefile = "gfx/interface/ideologies/bonnibelianism.dds"
+    }
+    spriteType = {
+        name = "GFX_ideology_bonnibelianism"
+        texturefile = "gfx/interface/ideologies/bonnibelianism.dds"
+    }
+}

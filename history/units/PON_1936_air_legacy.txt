@@ -1,0 +1,18 @@
+air_wings = {
+		348 = { 								
+		tac_bomber_equipment_0 = { owner = "PON" amount = 13 version_name = "Vena Mk 2" }
+
+	}
+	259 = { 								
+		CAS_equipment_0 = { owner = "PON" amount = 15 version_name = "Sapientus Mk 0" }
+nav_bomber_equipment_0 = { owner = "PON" amount = 12 version_name = "Cella Mk 1" }
+
+	}
+	380 = { 								
+		fighter_equipment_0 = { owner = "PON" amount = 14 version_name = "Seminatus Mk 0" }
+strat_bomber_equipment_0 = { owner = "PON" amount = 16 version_name = "Sciptor Mk 0" }
+
+	}
+
+
+}

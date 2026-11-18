@@ -1,0 +1,29 @@
+air_wings = {
+		205 = { 								
+		small_plane_cas_airframe_0 = { owner = "NYA" amount = 50 version_name = "Ramhala Mk 0" }
+
+	}
+	699 = { 								
+		medium_plane_airframe_0 = { owner = "NYA" amount = 50 version_name = "Toko Mk 0" }
+
+	}
+	374 = { 								
+		small_plane_airframe_0 = { owner = "NYA" amount = 45 version_name = "Rajagu Mk 0" }
+
+	}
+	710 = { 								
+		small_plane_cas_airframe_0 = { owner = "NYA" amount = 50 version_name = "Ramhala Mk 0" }
+medium_plane_airframe_0 = { owner = "NYA" amount = 50 version_name = "Toko Mk 0" }
+
+	}
+	725 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "NYA" amount = 50 version_name = "Ping Mk 1" }
+
+	}
+	233 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "NYA" amount = 50 version_name = "Ping Mk 1" }
+
+	}
+
+
+}

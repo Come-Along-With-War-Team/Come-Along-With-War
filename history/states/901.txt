@@ -1,0 +1,15 @@
+state = {
+    id = 901
+    name = "STATE_901"
+    manpower = 1000
+    state_category = wasteland
+
+    history = {
+        owner = GRC
+        add_core_of = GRC
+    }
+
+    provinces = { 2196 3228 6922 9438 }
+
+    local_supplies = 0
+}

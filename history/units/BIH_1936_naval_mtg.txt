@@ -1,0 +1,51 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Bihotzumena Fleet"			
+		naval_base = 8921
+		task_force = {
+			name = "Bihotzumena Fleet"
+			location = 8921
+			
+						ship = { name = "Orotza" definition = battle_cruiser equipment = { ship_hull_heavy_2 = { amount = 1 owner = BIH version_name = "Kantzuloa Class" } }	}
+			ship = { name = "Asmen" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BIH version_name = "Gogoa Class" } }	}
+			ship = { name = "Heroizea" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = BIH version_name = "Bihotzumena Class" } }	}
+			ship = { name = "Haua" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = BIH version_name = "Ahal Class" } }	}
+			ship = { name = "Eurua" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = BIH version_name = "Bihotzumena Class" } }	}
+			ship = { name = "Zuhantasuna" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = BIH version_name = "Bihotzumena Class" } }	}
+			ship = { name = "Eskua" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = BIH version_name = "Bihotzumena Class" } }	}
+			ship = { name = "Semen" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = BIH version_name = "Ahal Class" } }	}
+			ship = { name = "Baketsai" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = BIH version_name = "Bihotzumena Class" } }	}
+			ship = { name = "Eguntza" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = BIH version_name = "Bihotzumena Class" } }	}
+			ship = { name = "Berra" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BIH version_name = "Gogoa Class" } }	}
+			ship = { name = "Grimenturri" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BIH version_name = "Gogoa Class" } }	}
+			ship = { name = "Haua 2" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BIH version_name = "Gogoa Class" } }	}
+			ship = { name = "Laguzkintola" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = BIH version_name = "Ahal Class" } }	}
+			ship = { name = "Abesti" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = BIH version_name = "Bihotzumena Class" } }	}
+			ship = { name = "Abesti 2" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BIH version_name = "Gogoa Class" } }	}
+			ship = { name = "Ikardadintza" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BIH version_name = "Gogoa Class" } }	}
+			ship = { name = "Oroizea" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = BIH version_name = "Ahal Class" } }	}
+			ship = { name = "Gogoa" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = BIH version_name = "Ahal Class" } }	}
+			ship = { name = "Asmen 2" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = BIH version_name = "Ahal Class" } }	}
+			ship = { name = "Harri" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = BIH version_name = "Bihotzumena Class" } }	}
+			ship = { name = "Eguntza 2" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = BIH version_name = "Bihotzumena Class" } }	}
+			ship = { name = "Poza" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = BIH version_name = "Bihotzumena Class" } }	}
+			ship = { name = "Eurua 2" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = BIH version_name = "Bihotzumena Class" } }	}
+			ship = { name = "Eguntza 3" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = BIH version_name = "Bihotzumena Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

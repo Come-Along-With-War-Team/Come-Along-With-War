@@ -1,0 +1,17 @@
+capital = 472
+set_research_slots = 2
+set_stability = 0.55
+set_war_support = 0.75
+set_politics = {
+	ruling_party = traditionalism
+	last_election = "1000.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	rationalism = 0
+	supremacist = 25
+	collectivism = 10
+	traditionalism = 65
+	annihilation = 0
+}

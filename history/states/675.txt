@@ -1,0 +1,26 @@
+state = {
+	id = 675
+	name = "STATE_675"
+	manpower = 199068
+
+	state_category = town
+	#impassable = yes
+
+
+	resources = {
+		aluminium = 0
+		chromium = 0
+		oil = 0
+		rubber = 0
+		steel = 0
+		tungsten = 0
+	}
+
+	history = {
+		owner = CND
+		add_core_of = CND
+	}
+
+	provinces = { 6504 6505 6506 6507 6508 6509 }
+	local_supplies = 0.0
+}
