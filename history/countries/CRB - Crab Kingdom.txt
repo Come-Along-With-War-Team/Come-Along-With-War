@@ -1,4 +1,4 @@
-capital = 972 # Replace with your Crab Kingdom capital state ID
+capital = 787 # Replace with your Crab Kingdom capital state ID
 
 
 set_research_slots = 2

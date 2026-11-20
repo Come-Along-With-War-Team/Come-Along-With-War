@@ -1,20 +1,14 @@
 state = {
 	id = 863
 	name = "STATE_863"
-	manpower = 107152
+	manpower = 2167663
 
 	state_category = pastoral
 	#impassable = yes
 
 
 	resources = {
-		aluminium = 0
-		chromium = 0
-		oil = 0
-		rubber = 2
-		steel = 0
-		tungsten = 0
-		
+		rubber = 60
 	}
 
 	history = {
@@ -22,6 +16,6 @@ state = {
 		add_core_of = GRD
 	}
 
-	provinces = { 7883 }
+	provinces = { 7732 7733 7734 7735 7736 7737 7738 7739 7740 7741 7742 7743 7744 7745 7746 7761 7762 7763 7764 7765 7766 7767 7768 7769 7770 7771 7793 7794 7795 7796 7797 7798 7799 7800 7828 7829 7830 7831 7832 7870 7871 7872 7873 7874 7875 7876 7883 }
 	local_supplies = 0.0
 }

@@ -1,27 +1,15 @@
 state = {
-	id = 857
-	name = "STATE_857"
-	manpower = 238704
+    id = 857
+    name = "STATE_857"
+    manpower = 10000
+    state_category = wasteland
 
-	state_category = town
-	#impassable = yes
+    history = {
+        owner = VRT
+        add_core_of = VRT
+    }
 
+    provinces = { 3677 3681 3685 3689 3690 9478 9479 }
 
-	resources = {
-		aluminium = 0
-		chromium = 0
-		oil = 0
-		rubber = 5
-		steel = 0
-		tungsten = 0
-		
-	}
-
-	history = {
-		owner = GRD
-		add_core_of = GRD
-	}
-
-	provinces = { 7863 7864 7865 7866 }
-	local_supplies = 0.0
+    local_supplies = 0
 }

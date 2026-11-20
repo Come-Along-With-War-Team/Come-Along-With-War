@@ -1,7 +1,7 @@
 state = {
 	id = 815
 	name = "STATE_815"
-	manpower = 381459
+	manpower = 759254
 
 	state_category = large_town
 	#impassable = yes
@@ -14,14 +14,13 @@ state = {
 		rubber = 0
 		steel = 0
 		tungsten = 0
-		
 	}
 
 	history = {
-		owner = WLD
-		add_core_of = WLD
+		owner = JNG
+		add_core_of = JNG
 	}
 
-	provinces = { 7620 7621 7622 7623 7624 7625 7626 7627 7628 7629 7630 7631 7632 }
+	provinces = { 7597 7598 7599 7600 7601 7602 7603 7604 7605 7606 7607 7608 7620 7621 7622 7623 7624 7625 7626 7627 7628 7629 7630 7631 7632 }
 	local_supplies = 0.0
 }

@@ -6,6 +6,7 @@ state = {
 	state_category = megalopolis
 	#impassable = yes
 
+
 	resources = {
 		aluminium = 1
 		chromium = 1
@@ -16,10 +17,10 @@ state = {
 	}
 
 	history = {
-		owner = WLD
-		add_core_of = WLD
+		owner = RNG
+		add_core_of = RNG
 	}
 
-	provinces = { 922 923 924 925 926 927 928 929 930 931 932 933 934 935 }
+	provinces = { 922 923 924 925 926 927 928 929 930 931 932 933 934 935 2307 2311 }
 	local_supplies = 0.0
 }

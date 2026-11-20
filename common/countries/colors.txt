@@ -215,6 +215,49 @@ CLD = {
 	color_ui = rgb { 205 220 250 }
 }
 
+JNG = {
+	color = rgb { 35 135 55 }
+	color_ui = rgb { 35 135 55 }
+}
+BEE = {
+	color = rgb { 235 185 35 }
+	color_ui = rgb { 235 185 35 }
+}
+
+OCN = {
+	color = rgb { 45 145 190 }
+	color_ui = rgb { 45 145 190 }
+}
+
+EMR = {
+	color = rgb { 25 165 105 }
+	color_ui = rgb { 25 165 105 }
+}
+
+TRE = {
+	color = rgb { 105 75 45 }
+	color_ui = rgb { 105 75 45 }
+}
+
+RNG = {
+	color = rgb { 185 205 220 }
+	color_ui = rgb { 185 205 220 }
+}
+
+FYG = {
+	color = rgb { 225 190 235 }
+	color_ui = rgb { 225 190 235 }
+}
+
+CTN = {
+	color = rgb { 250 175 215 }
+	color_ui = rgb { 250 175 215 }
+}
+
+WLF = {
+	color = rgb { 95 60 65 }
+	color_ui = rgb { 95 60 65 }
+}
 WLD = {
 	color = rgb { 95 110 95 }
 	color_ui = rgb { 115 130 115 }

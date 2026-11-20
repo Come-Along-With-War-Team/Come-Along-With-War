@@ -239,6 +239,42 @@
  CLD_DEF:0 "the Cloud Kingdom"
  CLD_ADJ:0 "Cloud"
 
+ JNG:0 "Jungle Kingdom"
+ JNG_DEF:0 "the Jungle Kingdom"
+ JNG_ADJ:0 "Jungle"
+
+ BEE:0 "Bee Kingdom"
+ BEE_DEF:0 "the Bee Kingdom"
+ BEE_ADJ:0 "Bee"
+
+ OCN:0 "Ocean Council"
+ OCN_DEF:0 "the Ocean Council"
+ OCN_ADJ:0 "Oceanic"
+
+ EMR:0 "Emerald Kingdom"
+ EMR_DEF:0 "the Emerald Kingdom"
+ EMR_ADJ:0 "Emerald"
+
+ TRE:0 "The Tree"
+ TRE_DEF:0 "The Tree"
+ TRE_ADJ:0 "Arboreal"
+
+ RNG:0 "Engagement Ring Principality"
+ RNG_DEF:0 "the Engagement Ring Principality"
+ RNG_ADJ:0 "Ring"
+
+ FYG:0 "Frozen Yogurt Principality"
+ FYG_DEF:0 "the Frozen Yogurt Principality"
+ FYG_ADJ:0 "Frozen Yogurt"
+
+ CTN:0 "Cotton Candy Kingdom"
+ CTN_DEF:0 "the Cotton Candy Kingdom"
+ CTN_ADJ:0 "Cotton Candy"
+
+ WLF:0 "Whywolves"
+ WLF_DEF:0 "the Whywolves"
+ WLF_ADJ:0 "Whywolf"
+
  WLD:0 "Wilderness"
  WLD_DEF:0 "the Wilderness of Ooo"
  WLD_ADJ:0 "Wild"

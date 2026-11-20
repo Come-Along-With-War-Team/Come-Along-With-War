@@ -1,11 +1,10 @@
 state = {
 	id = 804
 	name = "STATE_804"
-	manpower = 291130
+	manpower = 107974
 
-	state_category = town
+	state_category = pastoral
 	#impassable = yes
-
 
 	resources = {
 		aluminium = 0
@@ -14,7 +13,6 @@ state = {
 		rubber = 0
 		steel = 0
 		tungsten = 0
-		
 	}
 
 	history = {
@@ -22,6 +20,6 @@ state = {
 		add_core_of = WLD
 	}
 
-	provinces = { 7539 7540 7541 7542 7543 7544 7545 7546 }
+	provinces = { 8874 8875 8876 8877 8878 }
 	local_supplies = 0.0
 }

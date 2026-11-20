@@ -1,27 +1,25 @@
 state = {
 	id = 837
 	name = "STATE_837"
-	manpower = 183974
+	manpower = 321559
 
-	state_category = town
+	state_category = pastoral
 	#impassable = yes
-
 
 	resources = {
 		aluminium = 0
 		chromium = 0
 		oil = 0
 		rubber = 0
-		steel = 1
+		steel = 0
 		tungsten = 0
-		
 	}
 
 	history = {
-		owner = GRD
-		add_core_of = GRD
+		owner = RAG
+		add_core_of = RAG
 	}
 
-	provinces = { 7758 7759 7760 }
+	provinces = { 8835 8836 8837 8838 8839 8919 }
 	local_supplies = 0.0
 }

@@ -1,27 +1,21 @@
 state = {
 	id = 806
 	name = "STATE_806"
-	manpower = 370899
+	manpower = 2015249
 
 	state_category = large_town
 	#impassable = yes
 
 
 	resources = {
-		aluminium = 0
-		chromium = 0
-		oil = 0
-		rubber = 0
-		steel = 0
-		tungsten = 0
-		
+		steel = 1
 	}
 
 	history = {
-		owner = WLD
-		add_core_of = WLD
+		owner = JNG
+		add_core_of = JNG
 	}
 
-	provinces = { 7555 7556 7557 7558 7559 7560 7561 7562 7563 7564 7565 7566 }
+	provinces = { 7555 7556 7557 7558 7559 7560 7561 7562 7563 7564 7565 7566 7592 7593 7594 7595 7596 7609 7610 7611 7612 7613 7614 7633 7634 7653 7654 7655 7656 7657 7658 7659 7660 7661 7662 7663 7664 7665 7679 7680 7714 7715 7716 7723 }
 	local_supplies = 0.0
 }

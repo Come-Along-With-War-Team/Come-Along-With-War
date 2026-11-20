@@ -1,11 +1,10 @@
 state = {
 	id = 818
 	name = "STATE_818"
-	manpower = 149720
+	manpower = 160781
 
 	state_category = rural
 	#impassable = yes
-
 
 	resources = {
 		aluminium = 0
@@ -14,14 +13,13 @@ state = {
 		rubber = 0
 		steel = 0
 		tungsten = 0
-		
 	}
 
 	history = {
-		owner = WLD
-		add_core_of = WLD
+		owner = RAG
+		add_core_of = RAG
 	}
 
-	provinces = { 7649 7650 7651 7652 }
+	provinces = { 8897 8898 8899 }
 	local_supplies = 0.0
 }

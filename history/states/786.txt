@@ -1,18 +1,16 @@
 state = {
 	id = 786
 	name = "STATE_786"
-	manpower = 148927
+	manpower = 2998751
 
 	state_category = rural
 	#impassable = yes
 
 	resources = {
-		aluminium = 0
-		chromium = 0
-		oil = 0
-		rubber = 5
-		steel = 0
-		tungsten = 0
+		aluminium = 1
+		chromium = 1
+		rubber = 92
+		tungsten = 1
 	}
 
 	history = {
@@ -20,6 +18,6 @@ state = {
 		add_core_of = CRY
 	}
 
-	provinces = { 7417 7418 7419 }
+	provinces = { 7319 7320 7321 7322 7323 7324 7325 7326 7327 7328 7329 7330 7331 7332 7333 7334 7368 7369 7370 7386 7387 7388 7389 7390 7391 7392 7393 7394 7395 7417 7418 7419 7436 7487 7488 7489 7490 7491 7492 7493 7494 7495 7496 7497 7498 7499 7500 7501 7502 7503 7504 7505 7506 7507 7508 7509 7510 7511 7512 7513 7514 7515 7516 7517 7518 7519 7520 7521 7522 7523 7524 7525 7526 7527 7528 }
 	local_supplies = 0.0
 }

@@ -1,20 +1,13 @@
 state = {
 	id = 854
 	name = "STATE_854"
-	manpower = 359468
+	manpower = 2552714
 
 	state_category = city
 	#impassable = yes
 
-
 	resources = {
-		aluminium = 0
-		chromium = 0
-		oil = 0
-		rubber = 9
-		steel = 0
-		tungsten = 0
-		
+		rubber = 43
 	}
 
 	history = {
@@ -22,6 +15,10 @@ state = {
 		add_core_of = GRD
 	}
 
-	provinces = { 7846 7847 7848 7849 7850 7851 7852 }
+	provinces = {
+		7731 7747 7748 7749 7750 7751 7752 7753 7754 7755 7756 7757 7772 7773 7774 7775 7776 7777 7778 7818 7819 7820
+		7821 7822 7823 7824 7825 7826 7827 7833 7846 7847 7848 7849 7850 7851 7852 7856 7857 7858 7859 7860 7861 7862
+		7867 7877 7878 7879 7880
+	}
 	local_supplies = 0.0
 }

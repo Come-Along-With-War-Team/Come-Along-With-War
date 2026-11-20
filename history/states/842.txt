@@ -1,9 +1,9 @@
 state = {
 	id = 842
 	name = "STATE_842"
-	manpower = 384729
+	manpower = 5127
 
-	state_category = city
+	state_category = small_island
 	#impassable = yes
 
 
@@ -11,17 +11,16 @@ state = {
 		aluminium = 0
 		chromium = 0
 		oil = 0
-		rubber = 10
+		rubber = 0
 		steel = 0
 		tungsten = 0
-		
 	}
 
 	history = {
-		owner = GRD
-		add_core_of = GRD
+		owner = ICE
+		add_core_of = ICE
 	}
 
-	provinces = { 7793 7794 7795 7796 7797 7798 7799 7800 }
+	provinces = { 8840 8841 8842 8843 8844 8845 8846 }
 	local_supplies = 0.0
 }

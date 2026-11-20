@@ -13,3 +13,7 @@ Desktop.ini
 *.log
 *.bak
 *.tmp
+
+# Python maintenance scripts & backups
+*.py
+_merge_backup/

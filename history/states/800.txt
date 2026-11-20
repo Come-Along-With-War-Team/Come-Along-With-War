@@ -1,28 +1,22 @@
 state = {
 	id = 800
 	name = "STATE_800"
-	manpower = 731709
+	manpower = 590897
 
-	state_category = metropolis
+	state_category = pastoral
 	#impassable = yes
 
 	resources = {
-		aluminium = 1
-		chromium = 1
-		oil = 0
-		rubber = 36
-		steel = 0
-		tungsten = 1
+		aluminium = 16
+		chromium = 16
+		tungsten = 16
 	}
 
 	history = {
-		owner = CRY
-		add_core_of = CRY
+		owner = OCN
+		add_core_of = OCN
 	}
 
-	provinces = {
-		7491 7492 7493 7494 7495 7496 7497 7498 7499 7500 7501 7502 7503 7504 7505 7506 7507 7508 7509 7510 7511 7512
-		7513 7514 7515
-	}
+	provinces = { 8677 8678 8679 8680 8682 8683 8684 8685 8686 8687 8688 }
 	local_supplies = 0.0
 }

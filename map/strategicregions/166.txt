@@ -1,9 +1,7 @@
-strategic_region={
+strategic_region = {
 	id = 166
 	name = "STRATEGICREGION_166"
-	provinces={
-		8930
-	}
+	provinces = { 8926 8930 }
 	weather = {
 		period = {
 			between = { 0.0 30.0 }
