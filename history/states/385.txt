@@ -17,10 +17,10 @@ state = {
 	}
 
 	history = {
-		owner = LIB
-		add_core_of = LIB
+		owner = TFO
+		add_core_of = TFO
 	}
 
-	provinces = { 4021 4022 4023 4024 4025 4026 4027 4028 4029 4030 4031 }
+	provinces = { 3484 4021 4022 4023 4024 4025 4026 4027 4028 4029 4030 4031 }
 	local_supplies = 0.0
 }

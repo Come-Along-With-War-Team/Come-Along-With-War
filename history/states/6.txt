@@ -17,8 +17,8 @@ state = {
 	}
 
 	history = {
-		owner = RAG
-		add_core_of = RAG
+		owner = PNT
+		add_core_of = PNT
 	}
 
 	provinces = { 44 45 46 47 48 49 50 }

@@ -17,8 +17,8 @@ state = {
 	}
 
 	history = {
-		owner = WOB
-		add_core_of = WOB
+		owner = NWB
+		add_core_of = NWB
 	}
 
 	provinces = { 1981 2888 2889 2890 2891 2892 2893 2894 2895 2896 }

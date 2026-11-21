@@ -17,8 +17,8 @@ state = {
 	}
 
 	history = {
-		owner = WLD
-		add_core_of = WLD
+		owner = TMK
+		add_core_of = TMK
 	}
 
 	provinces = { 6321 6322 }

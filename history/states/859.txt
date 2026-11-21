@@ -9,7 +9,7 @@ state = {
         add_core_of = VRT
     }
 
-    provinces = { 1751 1755 1757 1760 }
+    provinces = { 1751 1755 1757 1760 1824 1837 }
 
     local_supplies = 0
 }

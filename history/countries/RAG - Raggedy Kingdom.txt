@@ -1,5 +1,4 @@
-capital = 6 # Replace with your Raggedy Kingdom capital state ID
-
+capital = 626
 
 set_research_slots = 2
 set_stability = 0.60

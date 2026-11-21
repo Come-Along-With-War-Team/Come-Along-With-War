@@ -5,8 +5,8 @@ state = {
     state_category = wasteland
 
     history = {
-        owner = GMB
-        add_core_of = GMB
+        owner = RNG
+        add_core_of = RNG
     }
 
     provinces = { 3396 3397 3398 3399 3400 }

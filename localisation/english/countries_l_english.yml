@@ -275,6 +275,46 @@
  WLF_DEF:0 "the Whywolves"
  WLF_ADJ:0 "Whywolf"
 
+ PNT:0 "Peanut Kingdom"
+ PNT_DEF:0 "the Peanut Kingdom"
+ PNT_ADJ:0 "Peanut"
+
+ SKL:0 "Skeleton Kingdom"
+ SKL_DEF:0 "the Skeleton Kingdom"
+ SKL_ADJ:0 "Skeletal"
+
+ PRP:0 "Purple Kingdom"
+ PRP_DEF:0 "the Purple Kingdom"
+ PRP_ADJ:0 "Purple"
+
+ PND:0 "Pond Kingdom"
+ PND_DEF:0 "the Pond Kingdom"
+ PND_ADJ:0 "Pond"
+
+ ASN:0 "Guild of Assassins"
+ ASN_DEF:0 "the Guild of Assassins"
+ ASN_ADJ:0 "Assassin"
+
+ GNM:0 "Gnome Empire"
+ GNM_DEF:0 "the Gnome Empire"
+ GNM_ADJ:0 "Gnomish"
+
+ WDC:0 "Woodland Confederacy"
+ WDC_DEF:0 "the Woodland Confederacy"
+ WDC_ADJ:0 "Woodland"
+
+ TFO:0 "Trade Federation of Ooo"
+ TFO_DEF:0 "the Trade Federation of Ooo"
+ TFO_ADJ:0 "Trade Federation"
+
+ PBR:0 "Free Territory of Party Bears"
+ PBR_DEF:0 "the Free Territory of Party Bears"
+ PBR_ADJ:0 "Party Bear"
+
+ PPP:0 "Kingdom Kingdom Kingdom"
+ PPP_DEF:0 "the Kingdom Kingdom Kingdom"
+ PPP_ADJ:0 "Triumvirate"
+
  WLD:0 "Wilderness"
  WLD_DEF:0 "the Wilderness of Ooo"
  WLD_ADJ:0 "Wild"

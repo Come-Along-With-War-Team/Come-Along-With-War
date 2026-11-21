@@ -1,5 +1,4 @@
-capital = 171 # Replace with your Glass Kingdom capital state ID
-
+capital = 171
 
 set_research_slots = 2
 set_stability = 0.50

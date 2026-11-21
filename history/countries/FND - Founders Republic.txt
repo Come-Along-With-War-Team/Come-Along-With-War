@@ -1,5 +1,4 @@
-capital = 913 # Replace with your Founders' Republic capital state ID
-
+capital = 913
 
 set_research_slots = 4
 set_stability = 0.70

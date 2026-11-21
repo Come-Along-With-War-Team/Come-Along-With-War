@@ -1,5 +1,4 @@
-capital = 832 # Replace with your Gridface Kingdom capital state ID
-
+capital = 832
 
 set_research_slots = 2
 set_stability = 0.65

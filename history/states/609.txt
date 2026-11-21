@@ -6,6 +6,7 @@ state = {
 	state_category = pastoral
 	#impassable = yes
 
+
 	resources = {
 		aluminium = 3
 		chromium = 3
@@ -16,8 +17,8 @@ state = {
 	}
 
 	history = {
-		owner = WLD
-		add_core_of = WLD
+		owner = MSH
+		add_core_of = MSH
 	}
 
 	provinces = { 6069 6070 }

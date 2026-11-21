@@ -6,6 +6,7 @@ state = {
 	state_category = town
 	#impassable = yes
 
+
 	resources = {
 		aluminium = 1
 		chromium = 1
@@ -16,8 +17,8 @@ state = {
 	}
 
 	history = {
-		owner = WLD
-		add_core_of = WLD
+		owner = GNM
+		add_core_of = GNM
 	}
 
 	provinces = { 562 563 564 565 566 567 568 569 570 }

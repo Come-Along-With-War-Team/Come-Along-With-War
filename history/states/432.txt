@@ -14,14 +14,13 @@ state = {
 		rubber = 14
 		steel = 0
 		tungsten = 0
-		
 	}
 
 	history = {
-		owner = WLD
-		add_core_of = WLD
+		owner = WOB
+		add_core_of = WOB
 	}
 
-	provinces = { 4441 4442 4443 4444 4445 4446 4447 4448 4449 4450 }
+	provinces = { 996 1001 1002 4441 4442 4443 4444 4445 4446 4447 4448 4449 4450 }
 	local_supplies = 0.0
 }

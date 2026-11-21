@@ -17,10 +17,10 @@ state = {
 	}
 
 	history = {
-		owner = WLD
-		add_core_of = WLD
+		owner = GNM
+		add_core_of = GNM
 	}
 
-	provinces = { 3070 3071 3072 3073 }
+	provinces = { 3070 3072 3073 3296 3297 }
 	local_supplies = 0.0
 }

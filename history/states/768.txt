@@ -17,8 +17,8 @@ state = {
 	}
 
 	history = {
-		owner = NWB
-		add_core_of = NWB
+		owner = PND
+		add_core_of = PND
 	}
 
 	provinces = { 5407 7302 7303 7304 7305 7306 7307 7308 }

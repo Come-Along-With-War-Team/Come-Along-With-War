@@ -17,8 +17,8 @@ state = {
 	}
 
 	history = {
-		owner = FRK
-		add_core_of = FRK
+		owner = TFO
+		add_core_of = TFO
 	}
 
 	provinces = { 1704 1705 1706 1707 1708 1709 1710 1711 1712 1713 1714 1715 }

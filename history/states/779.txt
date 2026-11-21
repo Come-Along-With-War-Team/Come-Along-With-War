@@ -5,8 +5,8 @@ state = {
     state_category = wasteland
 
     history = {
-        owner = VRT
-        add_core_of = VRT
+        owner = LEM
+        add_core_of = LEM
     }
 
     provinces = { 1817 1818 1820 1822 1826 1829 1833 1836 1839 }

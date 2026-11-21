@@ -21,6 +21,6 @@ state = {
 		add_core_of = BOX
 	}
 
-	provinces = { 6807 6808 6809 6810 }
+	provinces = { 6807 6809 6810 }
 	local_supplies = 0.0
 }

@@ -1,4 +1,4 @@
-capital = 10
+capital = 775
 oob = ""
 set_research_slots = 1
 set_stability = 0.50

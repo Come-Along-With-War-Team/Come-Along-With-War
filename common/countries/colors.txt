@@ -258,6 +258,50 @@ WLF = {
 	color = rgb { 95 60 65 }
 	color_ui = rgb { 95 60 65 }
 }
+
+PNT = {
+	color = rgb { 210 175 110 }
+	color_ui = rgb { 210 175 110 }
+}
+
+SKL = {
+	color = rgb { 215 210 195 }
+	color_ui = rgb { 215 210 195 }
+}
+
+PRP = {
+	color = rgb { 155 115 195 }
+	color_ui = rgb { 155 115 195 }
+}
+
+PND = {
+	color = rgb { 60 160 135 }
+	color_ui = rgb { 60 160 135 }
+}
+ASN = {
+	color = rgb { 65 45 55 }
+	color_ui = rgb { 65 45 55 }
+}
+GNM = {
+	color = rgb { 185 45 60 }
+	color_ui = rgb { 185 45 60 }
+}
+WDC = {
+	color = rgb { 185 110 55 }
+	color_ui = rgb { 185 110 55 }
+}
+TFO = {
+	color = rgb { 205 165 50 }
+	color_ui = rgb { 205 165 50 }
+}
+PBR = {
+	color = rgb { 225 85 170 }
+	color_ui = rgb { 225 85 170 }
+}
+PPP = {
+	color = rgb { 130 85 175 }
+	color_ui = rgb { 130 85 175 }
+}
 WLD = {
 	color = rgb { 95 110 95 }
 	color_ui = rgb { 115 130 115 }

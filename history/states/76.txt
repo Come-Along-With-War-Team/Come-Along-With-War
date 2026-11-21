@@ -17,8 +17,8 @@ state = {
 	}
 
 	history = {
-		owner = RNG
-		add_core_of = RNG
+		owner = BTH
+		add_core_of = BTH
 	}
 
 	provinces = { 922 923 924 925 926 927 928 929 930 931 932 933 934 935 2307 2311 }

@@ -1,5 +1,4 @@
-capital = 786 # Replace with your Crystal Kingdom capital state ID
-
+capital = 786
 
 set_research_slots = 3
 set_stability = 0.50

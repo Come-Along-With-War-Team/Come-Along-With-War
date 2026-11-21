@@ -1,5 +1,4 @@
-capital = 41 # Replace with your Huge Kingdom capital state ID
-
+capital = 41
 
 set_research_slots = 2
 set_stability = 0.55
