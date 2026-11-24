@@ -80,5 +80,6 @@ tags={
 	"Map"
 }
 picture="thumbnail.png"
-supported_version="1.19.*"
+supported_version="1.20.*"
 remote_file_id="3826423758"
+path="C:/Users/Misha/Documents/Paradox Interactive/Hearts of Iron IV/mod/Come-Along-With-War"
