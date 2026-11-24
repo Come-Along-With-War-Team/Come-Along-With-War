@@ -302,6 +302,51 @@ PPP = {
 	color = rgb { 130 85 175 }
 	color_ui = rgb { 130 85 175 }
 }
+
+CBE = {
+	color = rgb { 130 148 168 }
+	color_ui = rgb { 130 148 168 }
+}
+
+VIL = {
+	color = rgb { 205 170 115 }
+	color_ui = rgb { 205 170 115 }
+}
+
+RMP = {
+	color = rgb { 214 148 134 }
+	color_ui = rgb { 214 148 134 }
+}
+
+HRS = {
+	color = rgb { 138 86 52 }
+	color_ui = rgb { 138 86 52 }
+}
+
+RCK = {
+	color = rgb { 112 116 122 }
+	color_ui = rgb { 112 116 122 }
+}
+
+SPD = {
+	color = rgb { 78 58 92 }
+	color_ui = rgb { 78 58 92 }
+}
+
+DOG = {
+	color = rgb { 176 112 60 }
+	color_ui = rgb { 176 112 60 }
+}
+
+BER = {
+	color = rgb { 96 72 56 }
+	color_ui = rgb { 96 72 56 }
+}
+
+RNC = {
+	color = rgb { 184 124 202 }
+	color_ui = rgb { 184 124 202 }
+}
 WLD = {
 	color = rgb { 95 110 95 }
 	color_ui = rgb { 115 130 115 }

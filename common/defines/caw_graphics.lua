@@ -17,4 +17,4 @@ NDefines_Graphics.NFrontend.FRONTEND_LOOK_Z = 1019.0
 -- Small flags (10x7):   53 * 10 = 530  -> cols = 53, rows = 1, cap = 53 (0 overflow)
 NDefines_Graphics.NGraphics.COUNTRY_FLAG_TEX_MAX_SIZE = 1024
 NDefines_Graphics.NGraphics.COUNTRY_FLAG_MEDIUM_TEX_MAX_SIZE = 369
-NDefines_Graphics.NGraphics.COUNTRY_FLAG_SMALL_TEX_MAX_SIZE = 630
+NDefines_Graphics.NGraphics.COUNTRY_FLAG_SMALL_TEX_MAX_SIZE = 720

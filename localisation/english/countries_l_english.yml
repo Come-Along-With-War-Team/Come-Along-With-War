@@ -315,6 +315,42 @@
  PPP_DEF:0 "the Kingdom Kingdom Kingdom"
  PPP_ADJ:0 "Triumvirate"
 
+CBE:0 "Cube Republic"
+ CBE_DEF:0 "the Cube Republic"
+ CBE_ADJ:0 "Cubian"
+
+ VIL:0 "Villager Republic"
+ VIL_DEF:0 "the Villager Republic"
+ VIL_ADJ:0 "Fat Villager"
+
+ RMP:0 "Rump Republic"
+ RMP_DEF:0 "the Rump Republic"
+ RMP_ADJ:0 "Rumpian"
+
+ HRS:0 "Horse Republic"
+ HRS_DEF:0 "the Horse Republic"
+ HRS_ADJ:0 "Equine"
+
+ RCK:0 "Rock Kingdom"
+ RCK_DEF:0 "the Rock Kingdom"
+ RCK_ADJ:0 "Rock"
+
+ SPD:0 "Spider Hegemony"
+ SPD_DEF:0 "the Spider Hegemony"
+ SPD_ADJ:0 "Spider"
+
+ DOG:0 "Dog Republic"
+ DOG_DEF:0 "the Dog Republic"
+ DOG_ADJ:0 "Dog"
+
+ BER:0 "Bear Kingdom"
+ BER_DEF:0 "the Bear Kingdom"
+ BER_ADJ:0 "Bear"
+
+ RNC:0 "Rainicorn Republic"
+ RNC_DEF:0 "the Rainicorn Republic"
+ RNC_ADJ:0 "Rainicorn"
+
  WLD:0 "Wilderness"
  WLD_DEF:0 "the Wilderness of Ooo"
  WLD_ADJ:0 "Wild"

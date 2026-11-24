@@ -1,0 +1,20 @@
+capital = 44
+
+set_research_slots = 2
+set_stability = 0.30
+set_war_support = 0.45
+
+set_politics = {
+    ruling_party = supremacist
+    last_election = "1000.1.1"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+    rationalism = 5
+    supremacist = 55
+    collectivism = 10
+    traditionalism = 25
+    annihilation = 5
+}

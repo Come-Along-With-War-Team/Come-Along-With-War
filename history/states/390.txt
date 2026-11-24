@@ -17,8 +17,8 @@ state = {
 	}
 
 	history = {
-		owner = GNM
-		add_core_of = GNM
+		owner = CBE
+		add_core_of = CBE
 	}
 
 	provinces = { 4066 4067 4068 4069 4070 4071 4072 4073 4074 4075 4076 4077 4078 4079 9455 }
