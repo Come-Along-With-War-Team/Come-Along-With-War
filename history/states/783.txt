@@ -5,8 +5,8 @@ state = {
 	state_category = rural
 
 	history = {
-		owner = RNC
-		add_core_of = RNC
+		owner = NAM
+		add_core_of = NAM
 	}
 
 	provinces = { 4552 4556 4557 4566 4567 4571 4572 4577 4581 4585 4588 4591 4600 4602 4603 4608 4611 4613 }

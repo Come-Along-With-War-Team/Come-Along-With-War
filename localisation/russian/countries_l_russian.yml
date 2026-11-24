@@ -202,7 +202,6 @@
  HSE_DEF:0 "Домоград"
  HSE_ADJ:0 "Домоградск"
 
- # --- HOT DOG KINGDOM (HDK) ---
  HDK:0 "Hot Dog Kingdom"
  HDK_DEF:0 "the Hot Dog Kingdom"
  HDK_ADJ:0 "Hot Dog"
@@ -339,21 +338,22 @@
  SPD_DEF:0 "Паучья гегемония"
  SPD_ADJ:0 "Паукск"
 
- DOG:0 "Собачья республика"
- DOG_DEF:0 "Собачья республика"
- DOG_ADJ:0 "Собакск"
-
  BER:0 "Медвежье королевство"
  BER_DEF:0 "Медвежье королевство"
  BER_ADJ:0 "Медведск"
 
- RNC:0 "Республика ливнерогов"
- RNC_DEF:0 "Республика ливнерогов"
- RNC_ADJ:0 "Ливнерогск"
+ NAM:0 "Безымянное королевство"
+ NAM_DEF:0 "Безымянное королевство"
+ NAM_ADJ:0 "Безымянск"
+
+ SHN:0 "Сияющие острова"
+ SHN_DEF:0 "Сияющие острова"
+ SHN_ADJ:0 "Сияющеостровск"
 
  WLD:0 "Дикая территория"
  WLD_DEF:0 "Дикие земли ООО"
  WLD_ADJ:0 "Дикск"
  WLD_traditionalism:0 "Незанятое ООО"
  WLD_traditionalism_DEF:0 "Незанятые территории ООО"
- WLD_traditionalism_ADJ:0 "Дикск"
+ WLD_traditionalism_ADJ:0 "Дикск" 
+

@@ -17,8 +17,8 @@ state = {
 	}
 
 	history = {
-		owner = DOG
-		add_core_of = DOG
+		owner = NAM
+		add_core_of = NAM
 	}
 
 	provinces = { 1250 1251 1252 1253 1254 1255 1256 1257 1258 1259 }

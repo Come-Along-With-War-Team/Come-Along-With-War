@@ -1,6 +1,5 @@
 #reload countrycolors
 
-
 CND = {
 	color = rgb { 235 130 180 }
 	color_ui = rgb { 245 150 195 }
@@ -333,9 +332,9 @@ SPD = {
 	color_ui = rgb { 78 58 92 }
 }
 
-DOG = {
-	color = rgb { 176 112 60 }
-	color_ui = rgb { 176 112 60 }
+NAM = {
+	color = rgb { 86 78 138 }
+	color_ui = rgb { 86 78 138 }
 }
 
 BER = {
@@ -343,10 +342,11 @@ BER = {
 	color_ui = rgb { 96 72 56 }
 }
 
-RNC = {
-	color = rgb { 184 124 202 }
-	color_ui = rgb { 184 124 202 }
+SHN = {
+	color = rgb { 218 118 148 }
+	color_ui = rgb { 218 118 148 }
 }
+
 WLD = {
 	color = rgb { 95 110 95 }
 	color_ui = rgb { 115 130 115 }

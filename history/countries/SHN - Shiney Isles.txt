@@ -1,8 +1,8 @@
-capital = 243
+capital = 808
 
 set_research_slots = 2
-set_stability = 0.55
-set_war_support = 0.25
+set_stability = 0.45
+set_war_support = 0.40
 
 set_politics = {
     ruling_party = traditionalism
@@ -12,8 +12,8 @@ set_politics = {
 }
 
 set_popularities = {
-    rationalism = 20
-    supremacist = 30
+    rationalism = 15
+    supremacist = 35
     collectivism = 5
     traditionalism = 45
     annihilation = 0

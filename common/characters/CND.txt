@@ -1,6 +1,6 @@
 characters = {
     CND_bonnibel_bubblegum = {
-        name = "Princess Bubblegum"
+        name = CND_bonnibel_bubblegum
         portraits = {
             civilian = {
                 large = "gfx/leaders/CND/Princess_Bubblegum.dds"

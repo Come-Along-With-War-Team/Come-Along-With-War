@@ -202,7 +202,6 @@
  HSE_DEF:0 "the House Republic"
  HSE_ADJ:0 "Housefolk"
 
- # --- HOT DOG KINGDOM (HDK) ---
  HDK:0 "Hot Dog Kingdom"
  HDK_DEF:0 "the Hot Dog Kingdom"
  HDK_ADJ:0 "Hot Dog"
@@ -339,21 +338,21 @@ CBE:0 "Cube Republic"
  SPD_DEF:0 "the Spider Hegemony"
  SPD_ADJ:0 "Spider"
 
- DOG:0 "Dog Republic"
- DOG_DEF:0 "the Dog Republic"
- DOG_ADJ:0 "Dog"
-
  BER:0 "Bear Kingdom"
  BER_DEF:0 "the Bear Kingdom"
  BER_ADJ:0 "Bear"
 
- RNC:0 "Rainicorn Republic"
- RNC_DEF:0 "the Rainicorn Republic"
- RNC_ADJ:0 "Rainicorn"
+ NAM:0 "Nameless Kingdom"
+ NAM_DEF:0 "the Nameless Kingdom"
+ NAM_ADJ:0 "Nameless"
+
+ SHN:0 "Shiney Isles"
+ SHN_DEF:0 "the Shiney Isles"
+ SHN_ADJ:0 "Shiney Islander"
 
  WLD:0 "Wilderness"
  WLD_DEF:0 "the Wilderness of Ooo"
  WLD_ADJ:0 "Wild"
  WLD_traditionalism:0 "Unclaimed Ooo"
  WLD_traditionalism_DEF:0 "the Unclaimed Lands of Ooo"
- WLD_traditionalism_ADJ:0 "Wild"
+ WLD_traditionalism_ADJ:0 "Wild" 

@@ -6,7 +6,8 @@
         "*.gui": "hoi4",
         "*.mod": "hoi4",
         "*.gfx": "hoi4",
-        "*_l_*.yml": "paradox-localisation"
+        "*_l_*.yml": "paradox-localisation",
+        "*.yml": "paradox-localisation"
     },
     "files.encoding": "utf8",
     "[hoi4]": {

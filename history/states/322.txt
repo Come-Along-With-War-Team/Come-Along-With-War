@@ -17,8 +17,8 @@ state = {
 	}
 
 	history = {
-		owner = RNC
-		add_core_of = RNC
+		owner = NAM
+		add_core_of = NAM
 	}
 
 	provinces = {
