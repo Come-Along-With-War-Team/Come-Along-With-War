@@ -1,9 +1,9 @@
 state = {
 	id = 35
 	name = "STATE_35"
-	manpower = 590708
+	manpower = 314005
 
-	state_category = metropolis
+	state_category = large_town
 	#impassable = yes
 
 
@@ -12,15 +12,15 @@ state = {
 		chromium = 0
 		oil = 0
 		rubber = 0
-		steel = 0
+		steel = 2
 		tungsten = 0
 	}
 
 	history = {
-		owner = CND
-		add_core_of = CND
+		owner = EMR
+		add_core_of = EMR
 	}
 
-	provinces = { 452 453 454 456 457 459 460 461 }
+	provinces = { 8032 8033 8034 8035 8036 8037 }
 	local_supplies = 0.0
 }

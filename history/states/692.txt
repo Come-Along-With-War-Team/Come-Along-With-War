@@ -1,7 +1,7 @@
 state = {
 	id = 692
 	name = "STATE_692"
-	manpower = 111248
+	manpower = 386403
 
 	state_category = rural
 	#impassable = yes
@@ -21,6 +21,6 @@ state = {
 		add_core_of = CND
 	}
 
-	provinces = { 3187 3197 6612 6613 9497 }
+	provinces = { 3187 3197 6422 6423 6424 6425 6426 6612 6613 9497 }
 	local_supplies = 0.0
 }

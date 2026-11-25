@@ -1,26 +1,25 @@
 state = {
 	id = 535
 	name = "STATE_535"
-	manpower = 277242
+	manpower = 1128218
 
 	state_category = town
 	#impassable = yes
 
-
 	resources = {
-		aluminium = 0
-		chromium = 0
-		oil = 1
-		rubber = 0
-		steel = 0
-		tungsten = 0
+		oil = 4
+		steel = 4
 	}
 
 	history = {
 		owner = CND
 		add_core_of = CND
+		victory_points = { 6391 15 }
 	}
 
-	provinces = { 5308 5309 5310 5311 5312 5313 9453 }
+	provinces = {
+		1611 1612 1613 1614 1615 2107 2110 2113 2114 2115 2117 4497 4507 4509 4512 5308 5309 5310 5311 5312 5313 6383
+		6384 6385 6386 6387 6388 6389 6390 6391 6392 6393 6394 6395 9453
+	}
 	local_supplies = 0.0
 }

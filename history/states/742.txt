@@ -1,19 +1,15 @@
 state = {
 	id = 742
 	name = "STATE_742"
-	manpower = 100792
+	manpower = 458137
 
 	state_category = pastoral
 	#impassable = yes
 
 
 	resources = {
-		aluminium = 0
-		chromium = 0
-		oil = 1
-		rubber = 0
-		steel = 2
-		tungsten = 0
+		oil = 3
+		steel = 14
 	}
 
 	history = {
@@ -21,6 +17,6 @@ state = {
 		add_core_of = CND
 	}
 
-	provinces = { 7110 7111 7113 7114 7115 }
+	provinces = { 2808 2809 2810 2811 2812 2813 2814 2815 3490 5441 5986 5987 5989 5990 7110 7111 7112 7113 7114 7115 }
 	local_supplies = 0.0
 }

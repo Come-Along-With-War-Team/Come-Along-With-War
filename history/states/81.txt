@@ -1,11 +1,10 @@
 state = {
 	id = 81
 	name = "STATE_81"
-	manpower = 411540
+	manpower = 617808
 
 	state_category = city
 	#impassable = yes
-
 
 	resources = {
 		aluminium = 0
@@ -21,6 +20,6 @@ state = {
 		add_core_of = CND
 	}
 
-	provinces = { 962 963 964 965 966 967 968 }
+	provinces = { 962 963 965 966 967 968 2508 2509 2510 }
 	local_supplies = 0.0
 }

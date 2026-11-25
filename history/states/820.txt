@@ -4,13 +4,17 @@ state = {
     manpower = 10000
     state_category = wasteland
 
+    resources = {
+    	coal = 6
+    }
+
     history = {
         owner = CND
         add_core_of = CND
         victory_points = { 875 35 }
     }
 
-    provinces = { 875 883 884 890 892 5984 6289 }
+    provinces = { 875 883 884 890 892 897 3996 5984 5985 5988 6289 6294 }
 
     local_supplies = 0
 }

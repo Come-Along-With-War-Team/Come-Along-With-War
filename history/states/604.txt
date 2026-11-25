@@ -1,9 +1,9 @@
 state = {
 	id = 604
 	name = "STATE_604"
-	manpower = 495007
+	manpower = 120666
 
-	state_category = large_city
+	state_category = rural
 	#impassable = yes
 
 
@@ -17,10 +17,10 @@ state = {
 	}
 
 	history = {
-		owner = CND
-		add_core_of = CND
+		owner = EMR
+		add_core_of = EMR
 	}
 
-	provinces = { 5991 5992 5993 5994 5996 5997 5998 }
+	provinces = { 8015 8016 }
 	local_supplies = 0.0
 }

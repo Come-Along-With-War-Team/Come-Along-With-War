@@ -11,6 +11,7 @@ state = {
 		chromium = 1
 		rubber = 92
 		tungsten = 1
+		coal = 3
 	}
 
 	history = {
