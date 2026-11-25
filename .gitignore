@@ -16,4 +16,9 @@ Desktop.ini
 
 # Python maintenance scripts & backups
 *.py
+*.py[cod]
+__pycache__/
 _merge_backup/
+
+# Editor settings
+.vscode/
