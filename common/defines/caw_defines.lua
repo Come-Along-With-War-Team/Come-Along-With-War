@@ -1,4 +1,5 @@
 NDefines.NGame.START_DATE = "1000.1.1.12"
 NDefines.NGame.END_DATE = "1025.1.1.1"
+NDefines.NDiplomacy.TENSION_TIME_SCALE_START_DATE = "1000.1.1.12"
 
 NDefines.NTechnology.BASE_YEAR_AHEAD_PENALTY_FACTOR = 2.0
